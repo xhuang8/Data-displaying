@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4a5acec-523c-43f4-89b7-e7ec9aba44f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dataTables/TableData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dataTables/DataTables.html" beforeDir="false" afterPath="$PROJECT_DIR$/dataTables/DataTables.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -14,22 +16,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dataTables/DataTables.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="70" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -39,23 +32,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/dataTables/TableData.js" />
         <option value="$PROJECT_DIR$/dataTables/DataTables.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/Datatables.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="29" />
-    <option name="y" value="66" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="188" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="776" />
   </component>
@@ -76,11 +60,6 @@
               <item name="Datatables" type="b2602c69:ProjectViewProjectNode" />
               <item name="Datatables" type="462c0819:PsiDirectoryNode" />
               <item name="dataTables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Datatables" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Datatables" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -104,6 +83,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/dataTables" />
       <recent name="$PROJECT_DIR$/media" />
     </key>
   </component>
@@ -129,16 +110,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557962193841</updated>
-      <workItem from="1557962195051" duration="6194000" />
+      <workItem from="1557962195051" duration="6847000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6194000" />
+    <option name="totallyTimeSpent" value="6847000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="66" width="1400" height="776" extended-state="0" />
-    <editor active="true" />
+    <frame x="188" y="23" width="1400" height="776" extended-state="1" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
@@ -211,22 +191,32 @@
     <entry file="file://$PROJECT_DIR$/media/images/sort_asc.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/media/js/dataTables.foundation.js">
+    <entry file="file://$PROJECT_DIR$/dataTables/TableData.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/media/js/dataTables.jqueryui.min.js">
+    <entry file="file://$PROJECT_DIR$/dataTables/DataTables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="45" column="17" lean-forward="true" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/js/dataTables.bootstrap4.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/media/js/dataTables.bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/media/js/dataTables.bootstrap4.min.js">
+    <entry file="file://$PROJECT_DIR$/media/js/dataTables.jqueryui.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/media/js/jquery.dataTables.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/media/js/dataTables.semanticui.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/js/dataTables.foundation.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/media/js/dataTables.bootstrap4.js">
@@ -240,13 +230,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/media/js/jquery.dataTables.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataTables/DataTables.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="70" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
-        </state>
-      </provider>
     </entry>
   </component>
 </project>
