@@ -6,49 +6,29 @@
 
     <!--step 1: set up Javascript / css (CDN) -->
     <!-- DataTables CSS -->
-    <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.15/css/jquery.dataTables.css">
+    <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
 
     <!-- jQuery -->
     <script type="text/javascript" charset="utf8" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 
     <!-- DataTables -->
-    <script type="text/javascript" charset="utf8" src="http://cdn.datatables.net/1.10.15/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" charset="utf8" src="http://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
 </head>
 
 <body>
 
     <!--step 2: HTML -->
-    <table id="table_id_example" class="display">
-        <thead>
-        <tr>
-            <th>abc
-            </th>
-            <th>abc
-            </th>
-        </tr>
-        </thead>
-
-        <tbody>
-        <tr>
-            <td>23
-            </td>
-            <td>34
-            </td>
-        </tr>
-
-        <tr>
-            <td>45
-            </td>
-            <td>56
-            </td>
-        </tr>
-        </tbody>
+    <table id="table_id" class="display" cellspacing="0" width="100%">
     </table>
 
     <!--step3: Initial DataTables -->
     <script>
         $(document).ready( function () {
-            $('table_id_example').DataTable();
+            $('table_id').DataTable(
+                {
+
+                }
+            );
         } );
     </script>
 </body>
