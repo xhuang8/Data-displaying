@@ -1617,7 +1617,7 @@
       "realtime_end":"2019-05-17",
       "name":"Nonmanufacturing Business Outlook Survey",
       "press_release":true,
-      "link":"https:\/\/www.philadelphiafed.org\/research-and-data\/regional-economy\/nonmanufacturing-business-outlook-survey",
+      "link":"https://www.philadelphiafed.org/research-and-data/regional-economy/nonmanufacturing-business-outlook-survey",
       "notes":"The Nonmanufacturing Business Outlook Survey is a monthly survey of nonmanufacturers in the Third Federal Reserve District. Participants indicate the direction of change in overall business activity and in the various measures of activity at their firms, including new orders, sales or revenues, employment, prices, and capital expenditures. Respondents also provide their assessment of general business conditions over the next six months. The survey has been conducted each month since March 2011."
     },
     {
@@ -1626,7 +1626,7 @@
       "realtime_end":"2019-05-17",
       "name":"Alternative Measures of Labor Underutilization for States",
       "press_release":true,
-      "link":"http:\/\/www.bls.gov\/lau\/stalt.htm"
+      "link":"http://www.bls.gov/lau/stalt.htm"
     },
     {
       "id":354,
@@ -1634,7 +1634,7 @@
       "realtime_end":"2019-05-17",
       "name":"An Arbitrage-Free Three-Factor Term Structure Model and the Recent Behavior of Long-Term Yields and Distant-Horizon Forward Rates",
       "press_release":false,
-      "link":"http:\/\/www.federalreserve.gov\/pubs\/feds\/2005\/200533\/200533abs.html",
+      "link":"http://www.federalreserve.gov/pubs/feds/2005/200533/200533abs.html",
       "notes":"This research reviews a simple three-factor arbitrage-free term structure model estimated by Federal Reserve Board staff and reports results obtained from fitting this model to U.S. Treasury yields since 1990. The model ascribes a large portion of the decline in long-term yields and distant-horizon forward rates since the middle of 2004 to a fall in term premiums. A variant of the model that incorporates inflation data indicates that about two-thirds of the decline in nominal term premiums owes to a fall in real term premiums, but estimated compensation for inflation risk has diminished as well."
     },
     {
@@ -2060,7 +2060,7 @@
       "realtime_end":"2019-05-17",
       "name":"Preventable Hospital Admissions",
       "press_release":false,
-      "link":"https:\/\/atlasdata.dartmouth.edu\/static\/research_data_archive",
+      "link":"https://atlasdata.dartmouth.edu/static/research_data_archive",
       "notes":"Discharges for ambulatory care sensitive conditions per 1,000 medicare enrollees."
     },
     {
@@ -2069,7 +2069,7 @@
       "realtime_end":"2019-05-17",
       "name":"Racial Dissimilarity Index",
       "press_release":false,
-      "notes":"The Racial Dissimilarity Index measures the percentage of a group's population in a county that would have to move Census tracts for each\r\ntract in the county to have the same percentage of that group as the whole county. Originally developed by Jahn, Schmid and Schrag [1947].\r\n\r\nMore information on measures of segregation can be found at https:\/\/dash.harvard.edu\/handle\/1\/2958220\r\n\r\nMultiyear estimates from the American Community Survey (ACS) are \"period\" estimates derived from a data sample collected over a period of time, as opposed to \"point-in-time\" estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period.\r\n\r\nMultiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010\u20132014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011\u20132015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates.\r\n\r\nPlease see \"Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates\" on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https:\/\/www.census.gov\/content\/dam\/Census\/library\/publications\/2018\/acs\/acs_general_handbook_2018.pdf"
+      "notes":"The Racial Dissimilarity Index measures the percentage of a group's population in a county that would have to move Census tracts for each\r\ntract in the county to have the same percentage of that group as the whole county. Originally developed by Jahn, Schmid and Schrag [1947]. More information on measures of segregation can be found at https://dash.harvard.edu/handle/1/2958220 Multiyear estimates from the American Community Survey (ACS) are \"period\" estimates derived from a data sample collected over a period of time, as opposed to \"point-in-time\" estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period. Multiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010\u20132014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011\u20132015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates. Please see \"Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates\" on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https://www.census.gov/content/dam/Census/library/publications/2018/acs/acs_general_handbook_2018.pdf"
     },
     {
       "id":426,
@@ -2077,7 +2077,7 @@
       "realtime_end":"2019-05-17",
       "name":"Status Report of U.S. Government Gold Reserve",
       "press_release":false,
-      "link":"https:\/\/www.transparency.treasury.gov\/dataset\/status-report-of-us-government-gold-reserve"
+      "link":"https://www.transparency.treasury.gov/dataset/status-report-of-us-government-gold-reserve"
     },
     {
       "id":427,
@@ -2092,7 +2092,7 @@
       "realtime_end":"2019-05-17",
       "name":"DHI Hiring Indicators",
       "press_release":false,
-      "link":"http:\/\/dhihiringindicators.com\/"
+      "link":"http://dhihiringindicators.com/"
     },
     {
       "id":429,
@@ -2100,7 +2100,7 @@
       "realtime_end":"2019-05-17",
       "name":"County Population Estimates By Race And Ethnicity",
       "press_release":false,
-      "notes":"Multiyear estimates from the American Community Survey (ACS) are \"period\" estimates derived from a data sample collected over a period of time, as opposed to \"point-in-time\" estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period.\r\n\r\nMultiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010\u20132014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011\u20132015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates.\r\n\r\nPlease see \"Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates\" on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https:\/\/www.census.gov\/content\/dam\/Census\/library\/publications\/2018\/acs\/acs_general_handbook_2018.pdf"
+      "notes":"Multiyear estimates from the American Community Survey (ACS) are \"period\" estimates derived from a data sample collected over a period of time, as opposed to \"point-in-time\" estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period. Multiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010\u20132014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011\u20132015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates. Please see \"Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates\" on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https://www.census.gov/content/dam/Census/library/publications/2018/acs/acs_general_handbook_2018.pdf"
     },
     {
       "id":430,
@@ -2108,7 +2108,7 @@
       "realtime_end":"2019-05-17",
       "name":"County Median Age",
       "press_release":false,
-      "notes":"Multiyear estimates from the American Community Survey (ACS) are \"period\" estimates derived from a data sample collected over a period of time, as opposed to \"point-in-time\" estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period.\r\n\r\nMultiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010\u20132014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011\u20132015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates.\r\n\r\nPlease see \"Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates\" on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https:\/\/www.census.gov\/content\/dam\/Census\/library\/publications\/2018\/acs\/acs_general_handbook_2018.pdf"
+      "notes":"Multiyear estimates from the American Community Survey (ACS) are \"period\" estimates derived from a data sample collected over a period of time, as opposed to \"point-in-time\" estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period. Multiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010\u20132014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011\u20132015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates. Please see \"Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates\" on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https://www.census.gov/content/dam/Census/library/publications/2018/acs/acs_general_handbook_2018.pdf"
     },
     {
       "id":431,
@@ -2116,8 +2116,8 @@
       "realtime_end":"2019-05-17",
       "name":"Premature Death Rate",
       "press_release":false,
-      "link":"https:\/\/www.cdc.gov\/nchs\/nvss\/deaths.htm",
-      "notes":"Premature crude death rate is the number of deaths where the deceased is younger than 75 years of age, divided by the population, then multiplied by 100,000. 75 years of age is the standard consideration of a premature death according to the CDC's definition of Years of Potential Life Loss. \r\n\r\nFor more information:\r\nhttps:\/\/wonder.cdc.gov\/wonder\/help\/cmf.html#Frequently Asked Questions about Death Rates"
+      "link":"https://www.cdc.gov/nchs/nvss/deaths.htm",
+      "notes":"Premature crude death rate is the number of deaths where the deceased is younger than 75 years of age, divided by the population, then multiplied by 100,000. 75 years of age is the standard consideration of a premature death according to the CDC's definition of Years of Potential Life Loss. For more information: https://wonder.cdc.gov/wonder/help/cmf.html#Frequently Asked Questions about Death Rates"
     },
     {
       "id":432,
@@ -2125,7 +2125,7 @@
       "realtime_end":"2019-05-17",
       "name":"New Patent Assignments",
       "press_release":false,
-      "link":"https:\/\/assignment.uspto.gov\/patent\/index.html#\/patent\/search"
+      "link":"https:/assignment.uspto.gov/patent/index.html#/patent/search"
     },
     {
       "id":433,
@@ -2133,7 +2133,7 @@
       "realtime_end":"2019-05-17",
       "name":"Age-Adjusted Premature Death Rate",
       "press_release":true,
-      "link":"https:\/\/www.cdc.gov\/nchs\/nvss\/deaths.htm"
+      "link":"https://www.cdc.gov/nchs/nvss/deaths.htm"
     },
     {
       "id":434,
@@ -2141,7 +2141,7 @@
       "realtime_end":"2019-05-17",
       "name":"Quarterly Financial Report",
       "press_release":true,
-      "link":"https:\/\/www.census.gov\/econ\/qfr\/"
+      "link":"https://www.census.gov/econ/qfr/"
     },
     {
       "id":435,
@@ -2149,7 +2149,7 @@
       "realtime_end":"2019-05-17",
       "name":"Advance Economic Indicators",
       "press_release":true,
-      "link":"https:\/\/www.census.gov\/econ\/indicators\/index.html"
+      "link":"https://www.census.gov/econ/indicators/index.html"
     },
     {
       "id":436,
@@ -2157,7 +2157,7 @@
       "realtime_end":"2019-05-17",
       "name":"Monthly Retail Trade and Food Services",
       "press_release":true,
-      "link":"https:\/\/www.census.gov\/retail\/index.html"
+      "link":"https://www.census.gov/retail/index.html"
     },
     {
       "id":439,
@@ -2165,7 +2165,7 @@
       "realtime_end":"2019-05-17",
       "name":"Mean Household Wages Adjusted by Cost of Living",
       "press_release":false,
-      "link":"https:\/\/www.census.gov\/programs-surveys\/acs\/",
+      "link":"https://www.census.gov/programs-surveys/acs/",
       "notes":"Mean household wages in real U.S. Dollars from the American Community Survey adjusted for cost of living using regional price parities from the U.S. Bureau of Economic Analysis' Real Personal Income for States and Metropolitan Areas."
     },
     {
@@ -2174,7 +2174,7 @@
       "realtime_end":"2019-05-17",
       "name":"Coinbase Index",
       "press_release":false,
-      "link":"https:\/\/am.coinbase.com\/index"
+      "link":"https://am.coinbase.com/index"
     },
     {
       "id":441,
@@ -2182,7 +2182,7 @@
       "realtime_end":"2019-05-17",
       "name":"Coinbase Cryptocurrencies",
       "press_release":false,
-      "link":"https:\/\/www.coinbase.com\/charts?locale=en-US"
+      "link":"https://www.coinbase.com/charts?locale=en-US"
     },
     {
       "id":442,
@@ -2190,7 +2190,7 @@
       "realtime_end":"2019-05-17",
       "name":"LBMA Silver Price: Daily Prices",
       "press_release":false,
-      "link":"http:\/\/www.lbma.org.uk\/pricing-and-statistics"
+      "link":"http://www.lbma.org.uk/pricing-and-statistics"
     },
     {
       "id":443,
@@ -2198,8 +2198,8 @@
       "realtime_end":"2019-05-17",
       "name":"Business Formation Statistics",
       "press_release":true,
-      "link":"https:\/\/www.census.gov\/programs-surveys\/bfs.html",
-      "notes":"The Business Formation Statistics (BFS) are a product of the U.S. Census Bureau developed in research collaboration with economists affiliated with Board of Governors of the Federal Reserve System, Federal Reserve Bank of Atlanta, University of Maryland, and University of Notre Dame. The current BFS is released as a research product in \u201cbeta\u201d form. A final version is in the research and development phase.\r\n\r\nThe Business Formation Statistics (BFS) provide timely and high frequency data on business applications and employer business formations.  The BFS measure business initiation activity (Business Application Series) as indicated by applications for an Employer Identification Number (EIN) on the IRS Form SS-4. The BFS also provide information on actual and projected employer business formations (Business Formation Series) that originate from these applications, based on the record of first payroll tax liability for an EIN. In addition, the BFS contain measures of delay in business starts as indicated by the average duration between the application for an EIN and the transition to an employer business.\r\n\r\nThe BFS currently cover the period starting from the third quarter of 2004 (2004q3) onwards at a quarterly frequency. The data are available nationally and by individual states."
+      "link":"https://www.census.gov/programs-surveys/bfs.html",
+      "notes":"The Business Formation Statistics (BFS) are a product of the U.S. Census Bureau developed in research collaboration with economists affiliated with Board of Governors of the Federal Reserve System, Federal Reserve Bank of Atlanta, University of Maryland, and University of Notre Dame. The current BFS is released as a research product in \u201cbeta\u201d form. A final version is in the research and development phase. The Business Formation Statistics (BFS) provide timely and high frequency data on business applications and employer business formations.  The BFS measure business initiation activity (Business Application Series) as indicated by applications for an Employer Identification Number (EIN) on the IRS Form SS-4. The BFS also provide information on actual and projected employer business formations (Business Formation Series) that originate from these applications, based on the record of first payroll tax liability for an EIN. In addition, the BFS contain measures of delay in business starts as indicated by the average duration between the application for an EIN and the transition to an employer business. The BFS currently cover the period starting from the third quarter of 2004 (2004q3) onwards at a quarterly frequency. The data are available nationally and by individual states."
     },
     {
       "id":444,
@@ -2207,7 +2207,7 @@
       "realtime_end":"2019-05-17",
       "name":"ICE Swap Rates",
       "press_release":true,
-      "link":"https:\/\/www.theice.com\/iba\/ice-swap-rate"
+      "link":"https://www.theice.com/iba/ice-swap-rate"
     },
     {
       "id":445,
@@ -2215,7 +2215,7 @@
       "realtime_end":"2019-05-17",
       "name":"Secured Overnight Financing Rate Data",
       "press_release":true,
-      "link":"https:\/\/apps.newyorkfed.org\/markets\/autorates\/sofr"
+      "link":"https://apps.newyorkfed.org/markets/autorates/sofr"
     },
     {
       "id":446,
@@ -2223,7 +2223,7 @@
       "realtime_end":"2019-05-17",
       "name":"Labor Force Participation by State",
       "press_release":true,
-      "link":"https:\/\/www.bls.gov\/lau\/rdscnp16.htm"
+      "link":"https://www.bls.gov/lau/rdscnp16.htm"
     },
     {
       "id":449,
@@ -2231,7 +2231,7 @@
       "realtime_end":"2019-05-17",
       "name":"U.S. Trade in Goods by State, by NAICS-Based Product",
       "press_release":true,
-      "link":"https:\/\/www.census.gov\/foreign-trade\/statistics\/state\/index.html"
+      "link":"https://www.census.gov/foreign-trade/statistics/state/index.html"
     }
   ]
 }

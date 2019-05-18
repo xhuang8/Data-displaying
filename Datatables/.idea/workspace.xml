@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dataTables/releases.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-40">
-              <caret line="1610" column="103" lean-forward="true" selection-start-line="1610" selection-start-column="103" selection-end-line="1610" selection-end-column="103" />
+            <state relative-caret-position="-11550">
+              <caret line="1636" column="65" lean-forward="true" selection-start-line="1636" selection-start-column="65" selection-end-line="1636" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -56,9 +56,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="261" />
+    <option name="x" value="2" />
+    <option name="y" value="72" />
     <option name="width" value="1400" />
-    <option name="height" value="560" />
+    <option name="height" value="731" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -127,15 +128,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557962193841</updated>
-      <workItem from="1557962195051" duration="17980000" />
+      <workItem from="1557962195051" duration="18488000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17980000" />
+    <option name="totallyTimeSpent" value="18488000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="261" width="1400" height="560" extended-state="0" />
+    <frame x="2" y="72" width="1400" height="731" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -255,8 +256,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dataTables/releases.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="1610" column="103" lean-forward="true" selection-start-line="1610" selection-start-column="103" selection-end-line="1610" selection-end-column="103" />
+        <state relative-caret-position="-11550">
+          <caret line="1636" column="65" lean-forward="true" selection-start-line="1636" selection-start-column="65" selection-end-line="1636" selection-end-column="65" />
         </state>
       </provider>
     </entry>
