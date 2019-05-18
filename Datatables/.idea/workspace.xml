@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4a5acec-523c-43f4-89b7-e7ec9aba44f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dataTables/releases.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTables/DataTables.html" beforeDir="false" afterPath="$PROJECT_DIR$/dataTables/DataTables.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTables/TableData.js" beforeDir="false" afterPath="$PROJECT_DIR$/dataTables/TableData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataTables/releases.json" beforeDir="false" afterPath="$PROJECT_DIR$/dataTables/releases.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dataTables/releases.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="715" column="206" lean-forward="true" selection-start-line="715" selection-start-column="206" selection-end-line="715" selection-end-column="206" />
+            <state relative-caret-position="-40">
+              <caret line="1610" column="103" lean-forward="true" selection-start-line="1610" selection-start-column="103" selection-end-line="1610" selection-end-column="103" />
             </state>
           </provider>
         </entry>
@@ -59,9 +56,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="349" />
+    <option name="y" value="261" />
     <option name="width" value="1400" />
-    <option name="height" value="763" />
+    <option name="height" value="560" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -130,15 +127,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557962193841</updated>
-      <workItem from="1557962195051" duration="11493000" />
+      <workItem from="1557962195051" duration="17980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11493000" />
+    <option name="totallyTimeSpent" value="17980000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="349" width="1400" height="763" extended-state="0" />
+    <frame x="0" y="261" width="1400" height="560" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -258,8 +255,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dataTables/releases.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="715" column="206" lean-forward="true" selection-start-line="715" selection-start-column="206" selection-end-line="715" selection-end-column="206" />
+        <state relative-caret-position="-40">
+          <caret line="1610" column="103" lean-forward="true" selection-start-line="1610" selection-start-column="103" selection-end-line="1610" selection-end-column="103" />
         </state>
       </provider>
     </entry>

@@ -721,7 +721,7 @@
       "realtime_end":"2019-05-17",
       "name":"U.S. Import and Export Price Indexes",
       "press_release":true,
-      "link":"http:\/\/www.bls.gov\/mxp\/"
+      "link":"http://www.bls.gov/mxp/"
     },
     {
       "id":189,
@@ -729,7 +729,7 @@
       "realtime_end":"2019-05-17",
       "name":"Standard & Poors",
       "press_release":false,
-      "link":"https:\/\/us.spindices.com\/indices\/equity\/sp-500"
+      "link":"https://us.spindices.com/indices/equity/sp-500"
     },
     {
       "id":190,
@@ -737,7 +737,7 @@
       "realtime_end":"2019-05-17",
       "name":"Primary Mortgage Market Survey",
       "press_release":true,
-      "link":"http:\/\/www.freddiemac.com\/pmms\/"
+      "link":"http://www.freddiemac.com/pmms/"
     },
     {
       "id":191,
@@ -745,8 +745,8 @@
       "realtime_end":"2019-05-17",
       "name":"Senior Loan Officer Opinion Survey on Bank Lending Practices",
       "press_release":true,
-      "link":"http:\/\/www.federalreserve.gov\/boarddocs\/SnLoanSurvey\/",
-      "notes":"For further information, please refer to the Board of Governors of the Federal Reserve System's Senior Loan Officer Opinion Survey on Bank Lending Practices release, online at http:\/\/www.federalreserve.gov\/boarddocs\/SnLoanSurvey\/."
+      "link":"http://www.federalreserve.gov/boarddocs/SnLoanSurvey/",
+      "notes":"For further information, please refer to the Board of Governors of the Federal Reserve System's Senior Loan Officer Opinion Survey on Bank Lending Practices release, online at http://www.federalreserve.gov/boarddocs/SnLoanSurvey/."
     },
     {
       "id":192,
@@ -754,7 +754,7 @@
       "realtime_end":"2019-05-17",
       "name":"Job Openings and Labor Turnover",
       "press_release":true,
-      "link":"http:\/\/www.bls.gov\/jlt\/"
+      "link":"http://www.bls.gov/jlt/"
     },
     {
       "id":193,
@@ -769,7 +769,7 @@
       "realtime_end":"2019-05-17",
       "name":"ADP National Employment Report",
       "press_release":true,
-      "link":"http:\/\/www.adpemploymentreport.com\/"
+      "link":"http://www.adpemploymentreport.com/"
     },
     {
       "id":196,
@@ -777,7 +777,7 @@
       "realtime_end":"2019-05-17",
       "name":"Wilshire Indexes",
       "press_release":false,
-      "link":"http:\/\/www.wilshire.com\/Indexes\/"
+      "link":"http://www.wilshire.com/Indexes/"
     },
     {
       "id":197,
@@ -785,7 +785,7 @@
       "realtime_end":"2019-05-17",
       "name":"Dow Jones Averages",
       "press_release":false,
-      "link":"http:\/\/www.djaverages.com\/"
+      "link":"http://www.djaverages.com/"
     },
     {
       "id":198,
@@ -793,15 +793,15 @@
       "realtime_end":"2019-05-17",
       "name":"Kansas City Financial Stress Index",
       "press_release":true,
-      "link":"http:\/\/www.kansascityfed.org\/research\/indicatorsdata\/kcfsi\/"
+      "link":"http://www.kansascityfed.org/research/indicatorsdata/kcfsi/"
     },
     {
       "id":199,
       "realtime_start":"2019-05-17",
       "realtime_end":"2019-05-17",
-      "name":"S&P\/Case-Shiller Home Price Indices",
+      "name":"S&P/Case-Shiller Home Price Indices",
       "press_release":true,
-      "link":"http:\/\/us.spindices.com\/index-family\/real-estate\/sp-corelogic-case-shiller"
+      "link":"http://us.spindices.com/index-family/real-estate/sp-corelogic-case-shiller"
     },
     {
       "id":200,
@@ -809,7 +809,7 @@
       "realtime_end":"2019-05-17",
       "name":"CBOE Market Statistics",
       "press_release":false,
-      "link":"http:\/\/www.cboe.com\/data\/mktstat.aspx"
+      "link":"http://www.cboe.com/data/mktstat.aspx"
     },
     {
       "id":201,
@@ -817,7 +817,7 @@
       "realtime_end":"2019-05-17",
       "name":"International Indexes of Consumer Prices",
       "press_release":false,
-      "link":"http:\/\/www.bls.gov\/fls\/intl_consumer_prices.htm"
+      "link":"http://www.bls.gov/fls/intl_consumer_prices.htm"
     },
     {
       "id":202,
@@ -825,7 +825,7 @@
       "realtime_end":"2019-05-17",
       "name":"International Unemployment Rates and Employment Indexes",
       "press_release":false,
-      "link":"http:\/\/www.bls.gov\/fls\/intl_unemployment_rates_monthly.htm"
+      "link":"http://www.bls.gov/fls/intl_unemployment_rates_monthly.htm"
     },
     {
       "id":203,
@@ -833,7 +833,7 @@
       "realtime_end":"2019-05-17",
       "name":"International Comparisons of Annual Labor Force Statistics",
       "press_release":false,
-      "link":"http:\/\/www.bls.gov\/fls\/flscomparelf.htm"
+      "link":"http://www.bls.gov/fls/flscomparelf.htm"
     },
     {
       "id":204,
@@ -841,7 +841,7 @@
       "realtime_end":"2019-05-17",
       "name":"International Comparisons of GDP per Capita and per Hour",
       "press_release":true,
-      "link":"http:\/\/www.bls.gov\/fls\/intl_gdp_capita_gdp_hour.htm"
+      "link":"http://www.bls.gov/fls/intl_gdp_capita_gdp_hour.htm"
     },
     {
       "id":205,
@@ -849,7 +849,7 @@
       "realtime_end":"2019-05-17",
       "name":"Main Economic Indicators",
       "press_release":false,
-      "link":"http:\/\/www.oecd-ilibrary.org\/economics\/data\/main-economic-indicators\/main-economic-indicators-complete-database_data-00052-en"
+      "link":"http://www.oecd-ilibrary.org/economics/data/main-economic-indicators/main-economic-indicators-complete-database_data-00052-en"
     },
     {
       "id":206,
@@ -857,7 +857,7 @@
       "realtime_end":"2019-05-17",
       "name":"Quarterly National Accounts",
       "press_release":false,
-      "link":"http:\/\/www.oecd-ilibrary.org\/economics\/data\/oecd-national-accounts-statistics_na-data-en"
+      "link":"http://www.oecd-ilibrary.org/economics/data/oecd-national-accounts-statistics_na-data-en"
     },
     {
       "id":208,
@@ -865,8 +865,8 @@
       "realtime_end":"2019-05-17",
       "name":"State Leading Indexes",
       "press_release":true,
-      "link":"http:\/\/www.philadelphiafed.org\/research-and-data\/regional-economy\/indexes\/leading\/",
-      "notes":"The leading index for each state predicts the six-month growth rate of the state\u2019s coincident index. In addition to the coincident index, the models include other variables that lead the economy: state-level housing permits (1 to 4 units), state initial unemployment insurance claims, delivery times from the Institute for Supply Management (ISM) manufacturing survey, and the interest rate spread between the 10-year Treasury bond and the 3-month Treasury bill."
+      "link":"http://www.philadelphiafed.org/research-and-data/regional-economy/indexes/leading/",
+      "notes":"The leading index for each state predicts the six-month growth rate of the state's coincident index. In addition to the coincident index, the models include other variables that lead the economy: state-level housing permits (1 to 4 units), state initial unemployment insurance claims, delivery times from the Institute for Supply Management (ISM) manufacturing survey, and the interest rate spread between the 10-year Treasury bond and the 3-month Treasury bill."
     },
     {
       "id":209,
@@ -874,7 +874,7 @@
       "realtime_end":"2019-05-17",
       "name":"ICE BofAML Indices",
       "press_release":false,
-      "link":"https:\/\/www.theice.com\/market-data\/indices"
+      "link":"https://www.theice.com/market-data/indices"
     },
     {
       "id":212,
@@ -882,7 +882,7 @@
       "realtime_end":"2019-05-17",
       "name":"Spot Prices",
       "press_release":false,
-      "link":"http:\/\/www.eia.doe.gov\/dnav\/pet\/pet_pri_spt_s1_d.htm"
+      "link":"http://www.eia.doe.gov/dnav/pet/pet_pri_spt_s1_d.htm"
     },
     {
       "id":216,
@@ -890,7 +890,7 @@
       "realtime_end":"2019-05-17",
       "name":"E.2 Survey of Terms of Business Lending",
       "press_release":true,
-      "link":"http:\/\/www.federalreserve.gov\/releases\/e2\/",
+      "link":"http://www.federalreserve.gov/releases/e2/",
       "notes":"These data are collected during the middle month of each quarter and are released in the middle of the succeeding month."
     },
     {
@@ -899,7 +899,7 @@
       "realtime_end":"2019-05-17",
       "name":"Chicago Fed National Activity Index",
       "press_release":true,
-      "link":"http:\/\/www.chicagofed.org\/webpages\/publications\/cfnai\/index.cfm"
+      "link":"http://www.chicagofed.org/webpages/publications/cfnai/index.cfm"
     },
     {
       "id":221,
@@ -907,7 +907,7 @@
       "realtime_end":"2019-05-17",
       "name":"Chicago Fed National Financial Conditions Index",
       "press_release":false,
-      "link":"http:\/\/www.chicagofed.org\/webpages\/publications\/nfci\/index.cfm"
+      "link":"http://www.chicagofed.org/webpages/publications/nfci/index.cfm"
     },
     {
       "id":228,
@@ -915,7 +915,7 @@
       "realtime_end":"2019-05-17",
       "name":"Quarterly Starts and Completions by Purpose and Design",
       "press_release":false,
-      "link":"http:\/\/www.census.gov\/construction\/nrc\/pdf\/quarterly_starts_completions.pdf"
+      "link":"http://www.census.gov/construction/nrc/pdf/quarterly_starts_completions.pdf"
     },
     {
       "id":229,
@@ -923,7 +923,7 @@
       "realtime_end":"2019-05-17",
       "name":"Construction Spending",
       "press_release":true,
-      "link":"http:\/\/www.census.gov\/construction\/c30\/c30index.html"
+      "link":"http://www.census.gov/construction/c30/c30index.html"
     },
     {
       "id":230,
@@ -931,7 +931,7 @@
       "realtime_end":"2019-05-17",
       "name":"International Comparisons of Manufacturing Productivity and Unit Labor Cost Trends",
       "press_release":true,
-      "link":"http:\/\/www.bls.gov\/ilc\/#productivity"
+      "link":"http://www.bls.gov/ilc/#productivity"
     },
     {
       "id":231,
@@ -939,7 +939,7 @@
       "realtime_end":"2019-05-17",
       "name":"Charge-Off and Delinquency Rates on Loans and Leases at Commercial Banks",
       "press_release":true,
-      "link":"http:\/\/www.federalreserve.gov\/releases\/chargeoff\/default.htm"
+      "link":"http://www.federalreserve.gov/releases/chargeoff/default.htm"
     },
     {
       "id":234,
@@ -947,7 +947,7 @@
       "realtime_end":"2019-05-17",
       "name":"World Development Indicators",
       "press_release":false,
-      "link":"http:\/\/data.worldbank.org\/data-catalog\/world-development-indicators",
+      "link":"http://data.worldbank.org/data-catalog/world-development-indicators",
       "notes":"The primary World Bank collection of development indicators, compiled from officially-recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates."
     },
     {
@@ -956,7 +956,7 @@
       "realtime_end":"2019-05-17",
       "name":"Monthly Housing Affordability Index",
       "press_release":true,
-      "link":"http:\/\/www.realtor.org\/research\/research\/housinginx"
+      "link":"http://www.realtor.org/research/research/housinginx"
     },
     {
       "id":238,
@@ -964,8 +964,8 @@
       "realtime_end":"2019-05-17",
       "name":"Financial Soundness Indicators",
       "press_release":false,
-      "link":"http:\/\/data.imf.org\/?sk=9F855EAE-C765-405E-9C9A-A9DC2C1FEE47",
-      "notes":"The Financial Soundness Indicators (FSIs) were developed by the IMF, together with the international community, with the aim of supporting macroprudential analysis and assessing strengths and vulnerabilities of financial systems.\r\n \r\nThe website, hosted by the Statistics Department of the IMF, disseminates data and metadata on selected FSIs provided by participating countries. For a description of the various FSIs, as well as the consolidation basis, consolidation adjustments, and accounting rules followed, please refer to the \u201cConcepts and Definitions\u201d document (http:\/\/data.imf.org\/?sk=9F855EAE-C765-405E-9C9A-A9DC2C1FEE47). The Statistics Department will steadily increase the number of countries reporting FSIs for dissemination on this site.\r\n\r\nReporting countries compile FSI data presented on this website by using different methodologies, which may also vary for different points in time for the same country. Users are advised to consult the accompanying metadata (http:\/\/data.imf.org\/?sk=9F855EAE-C765-405E-9C9A-A9DC2C1FEE47) to conduct more meaningful cross-country comparisons or to assess the evolution of a given FSI for any of the countries."
+      "link":"http://data.imf.org/?sk=9F855EAE-C765-405E-9C9A-A9DC2C1FEE47",
+      "notes":"The Financial Soundness Indicators (FSIs) were developed by the IMF, together with the international community, with the aim of supporting macroprudential analysis and assessing strengths and vulnerabilities of financial systems. The website, hosted by the Statistics Department of the IMF, disseminates data and metadata on selected FSIs provided by participating countries. For a description of the various FSIs, as well as the consolidation basis, consolidation adjustments, and accounting rules followed, please refer to the “Concepts and Definitions“ document (http://data.imf.org/?sk=9F855EAE-C765-405E-9C9A-A9DC2C1FEE47). The Statistics Department will steadily increase the number of countries reporting FSIs for dissemination on this site. Reporting countries compile FSI data presented on this website by using different methodologies, which may also vary for different points in time for the same country. Users are advised to consult the accompanying metadata (http://data.imf.org/?sk=9F855EAE-C765-405E-9C9A-A9DC2C1FEE47) to conduct more meaningful cross-country comparisons or to assess the evolution of a given FSI for any of the countries."
     },
     {
       "id":239,
@@ -973,7 +973,7 @@
       "realtime_end":"2019-05-17",
       "name":"International Financial Statistics",
       "press_release":false,
-      "link":"http:\/\/www.imf.org\/external\/data.htm"
+      "link":"http://www.imf.org/external/data.htm"
     },
     {
       "id":240,
@@ -981,8 +981,8 @@
       "realtime_end":"2019-05-17",
       "name":"World Economic Outlook",
       "press_release":false,
-      "link":"http:\/\/www.imf.org\/external\/ns\/cs.aspx?id=28",
-      "notes":"The World Economic Outlook (WEO) database is created during the biannual WEO exercise, which begins in January and June of each year and results in the April and September WEO publication. Selected series from the publication are available in a database format.\r\n\r\nSee also, the World Economic Outlook Reports (http:\/\/www.imf.org\/external\/ns\/cs.aspx?id=29)."
+      "link":"http://www.imf.org/external/ns/cs.aspx?id=28",
+      "notes":"The World Economic Outlook (WEO) database is created during the biannual WEO exercise, which begins in January and June of each year and results in the April and September WEO publication. Selected series from the publication are available in a database format. See also, the World Economic Outlook Reports (http://www.imf.org/external/ns/cs.aspx?id=29)."
     },
     {
       "id":242,
@@ -990,8 +990,8 @@
       "realtime_end":"2019-05-17",
       "name":"Recession Indicators Series",
       "press_release":false,
-      "link":"http:\/\/www.oecd.org\/std\/leading-indicators\/oecdcompositeleadingindicatorsreferenceturningpointsandcomponentseries.htm",
-      "notes":"These time series are an interpretation of US Business Cycle Expansions and Contractions data provided by The National Bureau of Economic Research (NBER) at http:\/\/www.nber.org\/cycles\/cyclesmain.html and Organisation of Economic Development (OECD) Composite Leading Indicators: Reference Turning Points and Component Series data provided by the OECD at http:\/\/www.oecd.org\/std\/leading-indicators\/oecdcompositeleadingindicatorsreferenceturningpointsandcomponentseries.htm. Our time series are composed of dummy variables that represent periods of expansion and recession. The NBER identifies months and quarters, while the OECD identifies months, of turning points without designating a date within the period that turning points occurred. The dummy variable adopts an arbitrary convention that the turning point occurred at a specific date within the period. The arbitrary convention does not reflect any judgment on this issue by the NBER's Business Cycle Dating Committee or the OECD. A value of 1 is a recessionary period, while a value of 0 is an expansionary period.\r\n\r\nThe recession shading data that we provide initially comes from the source as a list of dates that are either an economic peak or trough. We interpret dates into recession shading data using one of three arbitrary methods. All of our recession shading data is available using all three interpretations. The period between a peak and trough is always shaded as a recession. The peak and trough are collectively extrema. Depending on the application, the extrema, both individually and collectively, may be included in the recession period in whole or in part. In situations where a portion of a period is included in the recession, the whole period is deemed to be included in the recession period. \r\n\r\nThe first interpretation, known as the midpoint method, is to show a recession from the midpoint of the peak through the midpoint of the trough for monthly and quarterly data. For daily data, the recession begins on the 15th of the month of the peak and ends on the 15th of the month of the trough. Daily data is a disaggregation of monthly data. For monthly and quarterly data, the entire peak and trough periods are included in the recession shading. This method shows the maximum number of periods as a recession for monthly and quarterly data. The Federal Reserve Bank of St. Louis uses this method in its own publications.\r\n\r\nThe second interpretation, known as the trough method, is to show a recession from the period following the peak through the trough (i.e. the peak is not included in the recession shading, but the trough is). For daily data, the recession begins on the first day of the first month following the peak and ends on the last day of the month of the trough. Daily data is a disaggregation of monthly data. The trough method is used when displaying data on FRED graphs.\r\n\r\nThe third interpretation, known as the peak method, is to show a recession from the period of the peak to the trough (i.e. the peak is included in the recession shading, but the trough is not). For daily data, the recession begins on the first day of the month of the peak and ends on the last day of the month preceding the trough. Daily data is a disaggregation of monthly data."
+      "link":"http://www.oecd.org/std/leading-indicators/oecdcompositeleadingindicatorsreferenceturningpointsandcomponentseries.htm",
+      "notes":"These time series are an interpretation of US Business Cycle Expansions and Contractions data provided by The National Bureau of Economic Research (NBER) at http://www.nber.org/cycles/cyclesmain.html and Organisation of Economic Development (OECD) Composite Leading Indicators: Reference Turning Points and Component Series data provided by the OECD at http://www.oecd.org/std/leading-indicators/oecdcompositeleadingindicatorsreferenceturningpointsandcomponentseries.htm. Our time series are composed of dummy variables that represent periods of expansion and recession. The NBER identifies months and quarters, while the OECD identifies months, of turning points without designating a date within the period that turning points occurred. The dummy variable adopts an arbitrary convention that the turning point occurred at a specific date within the period. The arbitrary convention does not reflect any judgment on this issue by the NBER's Business Cycle Dating Committee or the OECD. A value of 1 is a recessionary period, while a value of 0 is an expansionary period. The recession shading data that we provide initially comes from the source as a list of dates that are either an economic peak or trough. We interpret dates into recession shading data using one of three arbitrary methods. All of our recession shading data is available using all three interpretations. The period between a peak and trough is always shaded as a recession. The peak and trough are collectively extrema. Depending on the application, the extrema, both individually and collectively, may be included in the recession period in whole or in part. In situations where a portion of a period is included in the recession, the whole period is deemed to be included in the recession period. The first interpretation, known as the midpoint method, is to show a recession from the midpoint of the peak through the midpoint of the trough for monthly and quarterly data. For daily data, the recession begins on the 15th of the month of the peak and ends on the 15th of the month of the trough. Daily data is a disaggregation of monthly data. For monthly and quarterly data, the entire peak and trough periods are included in the recession shading. This method shows the maximum number of periods as a recession for monthly and quarterly data. The Federal Reserve Bank of St. Louis uses this method in its own publications. The second interpretation, known as the trough method, is to show a recession from the period following the peak through the trough (i.e. the peak is not included in the recession shading, but the trough is). For daily data, the recession begins on the first day of the first month following the peak and ends on the last day of the month of the trough. Daily data is a disaggregation of monthly data. The trough method is used when displaying data on FRED graphs. The third interpretation, known as the peak method, is to show a recession from the period of the peak to the trough (i.e. the peak is included in the recession shading, but the trough is not). For daily data, the recession begins on the first day of the month of the peak and ends on the last day of the month preceding the trough. Daily data is a disaggregation of monthly data."
     },
     {
       "id":245,
@@ -999,7 +999,7 @@
       "realtime_end":"2019-05-17",
       "name":"Summary Measures of the Foreign Exchange Value of the Dollar",
       "press_release":true,
-      "link":"http:\/\/www.federalreserve.gov\/releases\/h10\/summary\/default.htm"
+      "link":"http://www.federalreserve.gov/releases/h10/summary/default.htm"
     },
     {
       "id":249,
@@ -1007,7 +1007,7 @@
       "realtime_end":"2019-05-17",
       "name":"Income and Poverty in the United States",
       "press_release":true,
-      "link":"http:\/\/www.census.gov\/topics\/income-poverty\/income.html"
+      "link":"http://www.census.gov/topics/income-poverty/income.html"
     },
     {
       "id":251,
@@ -1015,7 +1015,7 @@
       "realtime_end":"2019-05-17",
       "name":"Harmonized Indices of Consumer Prices (HICP)",
       "press_release":false,
-      "link":"http:\/\/ec.europa.eu\/eurostat\/web\/hicp\/statistics-illustrated"
+      "link":"http://ec.europa.eu/eurostat/web/hicp/statistics-illustrated"
     },
     {
       "id":253,
@@ -1023,7 +1023,7 @@
       "realtime_end":"2019-05-17",
       "name":"ICE Libor Rates",
       "press_release":false,
-      "link":"https:\/\/www.theice.com\/iba\/libor"
+      "link":"https://www.theice.com/iba/libor"
     },
     {
       "id":254,
@@ -1031,7 +1031,7 @@
       "realtime_end":"2019-05-17",
       "name":"Travel Volume Trends",
       "press_release":false,
-      "link":"http:\/\/www.fhwa.dot.gov\/policyinformation\/travel_monitoring\/tvt.cfm"
+      "link":"http://www.fhwa.dot.gov/policyinformation/travel_monitoring/tvt.cfm"
     },
     {
       "id":256,
@@ -1039,7 +1039,7 @@
       "realtime_end":"2019-05-17",
       "name":"LBMA Gold Price: Daily Prices",
       "press_release":false,
-      "link":"https:\/\/www.theice.com\/iba\/lbma-gold-price"
+      "link":"https://www.theice.com/iba/lbma-gold-price"
     },
     {
       "id":257,
@@ -1047,7 +1047,7 @@
       "realtime_end":"2019-05-17",
       "name":"NBER Macrohistory Database",
       "press_release":false,
-      "link":"http:\/\/www.nber.org\/macrohistory\/"
+      "link":"http://www.nber.org/macrohistory/"
     },
     {
       "id":258,
@@ -1055,7 +1055,7 @@
       "realtime_end":"2019-05-17",
       "name":"Penn World Table 7.1",
       "press_release":false,
-      "link":"http:\/\/www.rug.nl\/research\/ggdc\/data\/pwt\/pwt-7.1"
+      "link":"http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1"
     },
     {
       "id":260,
@@ -1063,7 +1063,7 @@
       "realtime_end":"2019-05-17",
       "name":"CredAbility Consumer Distress Index",
       "press_release":false,
-      "link":"http:\/\/www.clearpoint.org\/resource-center\/consumer-distress-index\/"
+      "link":"http://www.clearpoint.org/resource-center/consumer-distress-index/"
     },
     {
       "id":261,
@@ -1071,7 +1071,7 @@
       "realtime_end":"2019-05-17",
       "name":"U.S. Recession Probabilities",
       "press_release":true,
-      "link":"http:\/\/pages.uoregon.edu\/jpiger\/us_recession_probs.htm\/"
+      "link":"http://pages.uoregon.edu/jpiger/us_recession_probs.htm/"
     },
     {
       "id":262,
@@ -1079,7 +1079,7 @@
       "realtime_end":"2019-05-17",
       "name":"Failures and Assistance Transactions",
       "press_release":false,
-      "link":"http:\/\/www5.fdic.gov\/hsob\/SelectRpt.asp?EntryTyp=30&Header=1"
+      "link":"http://www5.fdic.gov/hsob/SelectRpt.asp?EntryTyp=30&Header=1"
     },
     {
       "id":263,
@@ -1095,7 +1095,7 @@
       "realtime_end":"2019-05-17",
       "name":"Weekly U.S. and State Bond Prices, 1855-1865",
       "press_release":false,
-      "notes":"The data collection consists of weekly observations of bond prices for U.S. and state bonds from January 1855 through November 1865. The data are drawn from the \u201cNotes on the Money Market\u201d section of The Bankers\u2019 Magazine and Statistical Register; due to limitations of the magazine, The New York Times\u2019 summary of daily trading on the New York Stock Exchange was used to complete each series in the best possible manner.\r\n\r\nFor a more thorough explanation of the collection as well as how it is understood in a historical context, see:\r\nDwyer, G.P, Jr., R.W. Hafer and W.E. Weber. (1999) \u201cWeekly U.S. and State Bond Prices, 1855-1865,\u201d Historical Methods (32:1): 37-42."
+      "notes":"The data collection consists of weekly observations of bond prices for U.S. and state bonds from January 1855 through November 1865. The data are drawn from the “Notes on the Money Market“ section of The Bankers’ Magazine and Statistical Register; due to limitations of the magazine, The New York Times’ summary of daily trading on the New York Stock Exchange was used to complete each series in the best possible manner. For a more thorough explanation of the collection as well as how it is understood in a historical context, see: Dwyer, G.P, Jr., R.W. Hafer and W.E. Weber. (1999) “Weekly U.S. and State Bond Prices, 1855-1865,“ Historical Methods (32:1): 37-42."
     },
     {
       "id":266,
@@ -1103,7 +1103,7 @@
       "realtime_end":"2019-05-17",
       "name":"Bank of Japan Accounts",
       "press_release":true,
-      "link":"http:\/\/www.boj.or.jp\/en\/statistics\/boj\/other\/ac\/index.htm\/"
+      "link":"http://www.boj.or.jp/en/statistics/boj/other/ac/index.htm/"
     },
     {
       "id":267,
@@ -1111,7 +1111,7 @@
       "realtime_end":"2019-05-17",
       "name":"National Accounts - GDP (Eurostat)",
       "press_release":true,
-      "link":"http:\/\/appsso.eurostat.ec.europa.eu\/nui\/show.do?dataset=namq_10_gdp&lang=en"
+      "link":"http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=namq_10_gdp&lang=en"
     },
     {
       "id":268,
@@ -1119,7 +1119,7 @@
       "realtime_end":"2019-05-17",
       "name":"United Kingdom Main Aggregates of National Accounts",
       "press_release":true,
-      "link":"http:\/\/www.ons.gov.uk\/ons\/taxonomy\/search\/index.html?newquery=*&nscl=Main+Aggregates+of+National+Accounts&nscl-orig=Main+Aggregates+of+National+Accounts&content-type=publicationContentTypes&sortDirection=DESCENDING&sortBy=pubdate"
+      "link":"http://www.ons.gov.uk/ons/taxonomy/search/index.html?newquery=*&nscl=Main+Aggregates+of+National+Accounts&nscl-orig=Main+Aggregates+of+National+Accounts&content-type=publicationContentTypes&sortDirection=DESCENDING&sortBy=pubdate"
     },
     {
       "id":269,
@@ -1127,7 +1127,7 @@
       "realtime_end":"2019-05-17",
       "name":"National Accounts of Japan",
       "press_release":true,
-      "link":"http:\/\/www.esri.cao.go.jp\/en\/sna\/menu.html"
+      "link":"http://www.esri.cao.go.jp/en/sna/menu.html"
     },
     {
       "id":270,
@@ -1135,7 +1135,7 @@
       "realtime_end":"2019-05-17",
       "name":"Bankstats (Monetary & Financial Statistics)",
       "press_release":true,
-      "link":"https:\/\/www.bankofengland.co.uk\/statistics\/tables"
+      "link":"https://www.bankofengland.co.uk/statistics/tables"
     },
     {
       "id":271,
@@ -1143,7 +1143,7 @@
       "realtime_end":"2019-05-17",
       "name":"Weekly Financial Statements of the Eurosystem",
       "press_release":true,
-      "link":"http:\/\/www.ecb.int\/press\/pr\/wfs\/"
+      "link":"http://www.ecb.int/press/pr/wfs/"
     },
     {
       "id":274,
@@ -1151,8 +1151,8 @@
       "realtime_end":"2019-05-17",
       "name":"University of Louisville and Oklahoma State University: LoDI National Index",
       "press_release":true,
-      "link":"http:\/\/uofllogistics.org\/?project=the-lodi-index",
-      "notes":"The LoDI Index uses linear regression analysis to combine cargo volume data from rail, barge, air, and truck transit, along with various economic factors. The resulting indicator is designed to predict upcoming changes in the level of logistics and distribution activity in the US and is represented by a value between 1 and 100. An index at or above 50 represents a healthy level of activity in the industry\r\n\r\nThe Greater Louisville and National LoDI Indices were developed by researchers at the University of Louisville. Please contact Dr. Heragu (sunderesh.heragu@okstate.edu), now IE&M Department Head at Oklahoma State University, or Dr. DePuy (depuy@louisville.edu) for additional information."
+      "link":"http://uofllogistics.org/?project=the-lodi-index",
+      "notes":"The LoDI Index uses linear regression analysis to combine cargo volume data from rail, barge, air, and truck transit, along with various economic factors. The resulting indicator is designed to predict upcoming changes in the level of logistics and distribution activity in the US and is represented by a value between 1 and 100. An index at or above 50 represents a healthy level of activity in the industry The Greater Louisville and National LoDI Indices were developed by researchers at the University of Louisville. Please contact Dr. Heragu (sunderesh.heragu@okstate.edu), now IE&M Department Head at Oklahoma State University, or Dr. DePuy (depuy@louisville.edu) for additional information."
     },
     {
       "id":275,
@@ -1160,7 +1160,7 @@
       "realtime_end":"2019-05-17",
       "name":"Global Financial Development",
       "press_release":false,
-      "link":"http:\/\/data.worldbank.org\/data-catalog\/global-financial-development"
+      "link":"http://data.worldbank.org/data-catalog/global-financial-development"
     },
     {
       "id":279,
@@ -1168,7 +1168,7 @@
       "realtime_end":"2019-05-17",
       "name":"Economic Policy Uncertainty",
       "press_release":false,
-      "link":"http:\/\/www.policyuncertainty.com\/"
+      "link":"http://www.policyuncertainty.com/"
     },
     {
       "id":280,
@@ -1176,7 +1176,7 @@
       "realtime_end":"2019-05-17",
       "name":"Cass Freight Index Report",
       "press_release":true,
-      "link":"http:\/\/www.cassinfo.com\/Transportation-Expense-Management\/Supply-Chain-Analysis\/Transportation-Indexes\/Cass-Freight-Index.aspx"
+      "link":"http://www.cassinfo.com/Transportation-Expense-Management/Supply-Chain-Analysis/Transportation-Indexes/Cass-Freight-Index.aspx"
     },
     {
       "id":281,
@@ -1184,7 +1184,7 @@
       "realtime_end":"2019-05-17",
       "name":"Supplemental Estimates, Underlying Detail Tables",
       "press_release":true,
-      "link":"https:\/\/apps.bea.gov\/iTable\/index_UD.cfm"
+      "link":"https://apps.bea.gov/iTable/index_UD.cfm"
     },
     {
       "id":282,
@@ -1206,7 +1206,7 @@
       "realtime_end":"2019-05-17",
       "name":"Russell Indexes",
       "press_release":false,
-      "link":"https:\/\/russellinvestments.com\/us\/"
+      "link":"https://russellinvestments.com/us/"
     },
     {
       "id":285,
@@ -1214,7 +1214,7 @@
       "realtime_end":"2019-05-17",
       "name":"Penn World Table 9.0",
       "press_release":true,
-      "link":"http:\/\/www.rug.nl\/research\/ggdc\/data\/pwt\/"
+      "link":"http://www.rug.nl/research/ggdc/data/pwt/"
     },
     {
       "id":286,
@@ -1222,7 +1222,7 @@
       "realtime_end":"2019-05-17",
       "name":"Federal Recovery Programs and BEA Statistics",
       "press_release":true,
-      "link":"https:\/\/www.bea.gov\/recovery"
+      "link":"https://www.bea.gov/recovery"
     },
     {
       "id":287,
@@ -1230,7 +1230,7 @@
       "realtime_end":"2019-05-17",
       "name":"Nikkei Indexes",
       "press_release":false,
-      "link":"http:\/\/indexes.nikkei.co.jp\/en\/nkave\/index\/profile?idx=nk225"
+      "link":"http://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225"
     },
     {
       "id":288,
@@ -1238,7 +1238,7 @@
       "realtime_end":"2019-05-17",
       "name":"Quarterly Services Survey",
       "press_release":true,
-      "link":"http:\/\/www.census.gov\/services\/"
+      "link":"http://www.census.gov/services/"
     },
     {
       "id":289,
@@ -1246,7 +1246,7 @@
       "realtime_end":"2019-05-17",
       "name":"Annual Services Survey",
       "press_release":true,
-      "link":"http:\/\/www.census.gov\/services\/"
+      "link":"http://www.census.gov/services/"
     },
     {
       "id":290,
@@ -1254,8 +1254,8 @@
       "realtime_end":"2019-05-17",
       "name":"Monthly Wholesale Trade: Sales and Inventories",
       "press_release":true,
-      "link":"http:\/\/www.census.gov\/wholesale\/index.html",
-      "notes":"The Census Bureau conducts the Monthly Wholesale Trade Survey (MWTS) to provide national estimates of monthly sales, end-of-month inventories, and inventories-to-sales ratios by kind of business for wholesale firms located in the United States. Specifically, the MWTS covers wholesale merchants who sell goods on their own account and include such businesses as wholesale merchants or jobbers, industrial distributors, exporters, and importers. Sales offices and branches maintained by manufacturing, refining, or mining firms for the purpose of marketing their products are not covered in this report. Also excluded is NAICS Industry Group 4251: Wholesale Electronic Markets and Agents and Brokers. (Description of the survey as provided by the Census, http:\/\/www2.census.gov\/wholesale\/pdf\/mwts\/currentwhl.pdf)"
+      "link":"http://www.census.gov/wholesale/index.html",
+      "notes":"The Census Bureau conducts the Monthly Wholesale Trade Survey (MWTS) to provide national estimates of monthly sales, end-of-month inventories, and inventories-to-sales ratios by kind of business for wholesale firms located in the United States. Specifically, the MWTS covers wholesale merchants who sell goods on their own account and include such businesses as wholesale merchants or jobbers, industrial distributors, exporters, and importers. Sales offices and branches maintained by manufacturing, refining, or mining firms for the purpose of marketing their products are not covered in this report. Also excluded is NAICS Industry Group 4251: Wholesale Electronic Markets and Agents and Brokers. (Description of the survey as provided by the Census, http://www2.census.gov/wholesale/pdf/mwts/currentwhl.pdf)"
     },
     {
       "id":291,
@@ -1263,7 +1263,7 @@
       "realtime_end":"2019-05-17",
       "name":"Existing Home Sales",
       "press_release":true,
-      "link":"http:\/\/www.realtor.org\/topics\/existing-home-sales"
+      "link":"http://www.realtor.org/topics/existing-home-sales"
     },
     {
       "id":292,
@@ -1271,7 +1271,7 @@
       "realtime_end":"2019-05-17",
       "name":"Chicago Fed Midwest Manufacturing Index",
       "press_release":true,
-      "link":"https:\/\/www.chicagofed.org\/publications\/cfmmi\/index",
+      "link":"https://www.chicagofed.org/publications/cfmmi/index",
       "notes":"The Chicago Fed Midwest Manufacturing Index (CFMMI) is a monthly estimate by major industry of manufacturing output in the Seventh Federal Reserve District states of lllinois, Indiana, Iowa, Michigan and Wisconsin. It is a composite index of 15 manufacturing industries that uses hours worked data to measure monthly changes in regional activity."
     },
     {
@@ -1280,7 +1280,7 @@
       "realtime_end":"2019-05-17",
       "name":"Sticky Wages and Sectoral Labor Comovement",
       "press_release":false,
-      "link":"http:\/\/dx.doi.org\/10.1016\/j.jedc.2008.08.003"
+      "link":"http://dx.doi.org/10.1016/j.jedc.2008.08.003"
     },
     {
       "id":296,
@@ -1288,7 +1288,7 @@
       "realtime_end":"2019-05-17",
       "name":"Housing Vacancies and Homeownership",
       "press_release":true,
-      "link":"http:\/\/www.census.gov\/housing\/hvs\/"
+      "link":"http://www.census.gov/housing/hvs/"
     },
     {
       "id":298,
@@ -1296,7 +1296,7 @@
       "realtime_end":"2019-05-17",
       "name":"Texas Employment Data",
       "press_release":true,
-      "link":"http:\/\/www.dallasfed.org\/research\/econdata\/tx-emp.cfm"
+      "link":"http://www.dallasfed.org/research/econdata/tx-emp.cfm"
     },
     {
       "id":300,
@@ -1304,7 +1304,7 @@
       "realtime_end":"2019-05-17",
       "name":"Mortgage Debt Outstanding",
       "press_release":true,
-      "link":"http:\/\/www.federalreserve.gov\/econresdata\/releases\/mortoutstand\/current.htm"
+      "link":"http://www.federalreserve.gov/econresdata/releases/mortoutstand/current.htm"
     },
     {
       "id":301,
@@ -1319,8 +1319,8 @@
       "realtime_end":"2019-05-17",
       "name":"Cleveland Financial Stress Index",
       "press_release":true,
-      "link":"https:\/\/www.clevelandfed.org\/en\/newsroom-and-events\/publications\/economic-commentary\/economic-commentary-archives\/2012-economic-commentaries\/ec-201204-the-cleveland-financial-stress-index-a-tool-for-monitoring-financial-stability.aspx",
-      "notes":"The CFSI is a coincident indicator of systemic stress, where a high value of CFSI indicates high systemic financial stress. Units of CFSI are expressed as standardized differences from the mean (z-scores).\r\nThe CFSI tracks stress in six types of markets: credit markets, equity markets, foreign exchange markets, funding markets, real estate markets, and securitization markets."
+      "link":"https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/economic-commentary-archives/2012-economic-commentaries/ec-201204-the-cleveland-financial-stress-index-a-tool-for-monitoring-financial-stability.aspx",
+      "notes":"The CFSI is a coincident indicator of systemic stress, where a high value of CFSI indicates high systemic financial stress. Units of CFSI are expressed as standardized differences from the mean (z-scores). The CFSI tracks stress in six types of markets: credit markets, equity markets, foreign exchange markets, funding markets, real estate markets, and securitization markets."
     },
     {
       "id":304,
@@ -1335,7 +1335,7 @@
       "realtime_end":"2019-05-17",
       "name":"Swiss National Bank Monthly Statistical Bulletin",
       "press_release":true,
-      "link":"https:\/\/data.snb.ch\/en"
+      "link":"https://data.snb.ch/en"
     },
     {
       "id":306,
@@ -1343,8 +1343,8 @@
       "realtime_end":"2019-05-17",
       "name":"Swiss National Bank Historical Time Series",
       "press_release":true,
-      "link":"https:\/\/www.snb.ch\/en\/iabout\/stat\/statrep\/statpubdis\/id\/statpub_histz_arch#t3",
-      "notes":"The series in this release are historical data updated on an infrequent basis.\r\n\r\nMore details about the definitions of the series can be found at http:\/\/www.snb.ch\/en\/mmr\/reference\/banken_book\/source."
+      "link":"https://www.snb.ch/en/iabout/stat/statrep/statpubdis/id/statpub_histz_arch#t3",
+      "notes":"The series in this release are historical data updated on an infrequent basis. More details about the definitions of the series can be found at http://www.snb.ch/en/mmr/reference/banken_book/source."
     },
     {
       "id":308,
@@ -1352,7 +1352,7 @@
       "realtime_end":"2019-05-17",
       "name":"State and Metro Area Employment, Hours, and Earnings",
       "press_release":false,
-      "link":"http:\/\/www.bls.gov\/sae\/",
+      "link":"http://www.bls.gov/sae/",
       "notes":"The Bureau of Labor Statistics (BLS) produces all of the unadjusted series in this release. The BLS only produces a selection of seasonally adjusted data; the remaining series are adjusted by The Federal Reserve Bank of St. Louis. Users of these data will find details of the adjustment method and which institution made the adjustment in the series notes."
     },
     {
@@ -1361,7 +1361,7 @@
       "realtime_end":"2019-05-17",
       "name":"Currency and Coin Services",
       "press_release":false,
-      "link":"http:\/\/www.federalreserve.gov\/paymentsystems\/coin_data.htm"
+      "link":"http://www.federalreserve.gov/paymentsystems/coin_data.htm"
     },
     {
       "id":313,
@@ -1369,7 +1369,7 @@
       "realtime_end":"2019-05-17",
       "name":"Sticky Price CPI",
       "press_release":true,
-      "link":"https:\/\/www.frbatlanta.org\/research\/inflationproject\/stickyprice\/"
+      "link":"https://www.frbatlanta.org/research/inflationproject/stickyprice/"
     },
     {
       "id":315,
@@ -1377,7 +1377,7 @@
       "realtime_end":"2019-05-17",
       "name":"Current Median CPI",
       "press_release":true,
-      "link":"https:\/\/www.clevelandfed.org\/en\/our-research\/indicators-and-data\/median-cpi.aspx"
+      "link":"https://www.clevelandfed.org/en/our-research/indicators-and-data/median-cpi.aspx"
     },
     {
       "id":316,
@@ -1385,7 +1385,7 @@
       "realtime_end":"2019-05-17",
       "name":"G.20 Finance Companies",
       "press_release":true,
-      "link":"http:\/\/www.federalreserve.gov\/releases\/g20\/"
+      "link":"http://www.federalreserve.gov/releases/g20/"
     },
     {
       "id":317,
@@ -1393,7 +1393,7 @@
       "realtime_end":"2019-05-17",
       "name":"Weekly National Rates and Rate Caps",
       "press_release":false,
-      "link":"http:\/\/www.fdic.gov\/regulations\/resources\/rates\/index.html"
+      "link":"http://www.fdic.gov/regulations/resources/rates/index.html"
     },
     {
       "id":319,
@@ -1401,7 +1401,7 @@
       "realtime_end":"2019-05-17",
       "name":"BIS Effective Exchange Rate Indices",
       "press_release":false,
-      "link":"https:\/\/www.bis.org\/statistics\/eer\/index.htm"
+      "link":"https://www.bis.org/statistics/eer/index.htm"
     },
     {
       "id":320,
@@ -1409,8 +1409,8 @@
       "realtime_end":"2019-05-17",
       "name":"Tech Pulse",
       "press_release":true,
-      "link":"http:\/\/www.frbsf.org\/economic-research\/tech-pulse\/",
-      "notes":"The Tech Pulse Index is a coincidence index of activity in the U.S. information technology sector. The index interpreted as the health of the tech sector. The indicators used to compute the index include investment in IT goods, consumption of personal computers and software, employment in the IT sector, industrial production of the technology sector, and shipments by the technology sector. For further information, please visit the Tech Pulse webpage at the Federal Reserve Bank of San Francisco at: http:\/\/www.frbsf.org\/economic-research\/tech-pulse\/ ."
+      "link":"http://www.frbsf.org/economic-research/tech-pulse/",
+      "notes":"The Tech Pulse Index is a coincidence index of activity in the U.S. information technology sector. The index interpreted as the health of the tech sector. The indicators used to compute the index include investment in IT goods, consumption of personal computers and software, employment in the IT sector, industrial production of the technology sector, and shipments by the technology sector. For further information, please visit the Tech Pulse webpage at the Federal Reserve Bank of San Francisco at: http://www.frbsf.org/economic-research/tech-pulse/ ."
     },
     {
       "id":321,
@@ -1418,8 +1418,8 @@
       "realtime_end":"2019-05-17",
       "name":"Empire State Manufacturing Survey",
       "press_release":true,
-      "link":"http:\/\/www.newyorkfed.org\/survey\/empire\/empiresurvey_overview.html",
-      "notes":"Participants from across the state in a variety of industries respond to a questionnaire and report the change in a variety of indicators from the previous month. Respondents also state the likely direction of these same indicators six months ahead. April 2002 is the first report, although survey data date back to July 2001.\r\n\r\nThe survey is sent on the first day of each month to the same pool of about 200 manufacturing executives in New York State, typically the president or CEO. About 100 responses are received. Most are completed by the tenth, although surveys are accepted until the fifteenth."
+      "link":"http://www.newyorkfed.org/survey/empire/empiresurvey_overview.html",
+      "notes":"Participants from across the state in a variety of industries respond to a questionnaire and report the change in a variety of indicators from the previous month. Respondents also state the likely direction of these same indicators six months ahead. April 2002 is the first report, although survey data date back to July 2001. The survey is sent on the first day of each month to the same pool of about 200 manufacturing executives in New York State, typically the president or CEO. About 100 responses are received. Most are completed by the tenth, although surveys are accepted until the fifteenth."
     },
     {
       "id":322,
@@ -1427,8 +1427,8 @@
       "realtime_end":"2019-05-17",
       "name":"Business Leaders Survey",
       "press_release":true,
-      "link":"http:\/\/www.newyorkfed.org\/survey\/business_leaders\/bls_overview.html",
-      "notes":"The Business Leaders Survey is a monthly survey conducted by the Federal Reserve Bank of New York that asks companies across its District \u2013 which includes New York State, Northern New Jersey, and Fairfield County, Connecticut \u2013 about recent and expected trends in key business indicators. This survey is designed to parallel the Empire State Manufacturing Survey, though it covers a wider geography and the questions are slightly different. Participants from the service sector respond to a questionnaire and report on a variety of indicators' both in terms of recent and expected changes. While January 2014 is the first published report, survey responses date back to September of 2004 and all historical data are available on our website.\r\n\r\nThe survey is sent on the first business day of each month to the same pool of about 150 business executives, usually the president or CEO, in the region's service sector. In a typical month, about 100 responses are received by around the tenth of the month when the survey closes.\r\n\r\nRespondents come from a wide range of industries outside of the manufacturing sector, with the mix of respondents closely resembling the industry structure of the region. \r\n\r\nThe survey's headline index, general business activity, is a distinct question posed on the survey (as opposed to a composite of responses to other questions). Currently, no indexes are seasonally adjusted since none of the series exhibits stable seasonal patterns from a statistical perspective."
+      "link":"http://www.newyorkfed.org/survey/business_leaders/bls_overview.html",
+      "notes":"The Business Leaders Survey is a monthly survey conducted by the Federal Reserve Bank of New York that asks companies across its District - which includes New York State, Northern New Jersey, and Fairfield County, Connecticut - about recent and expected trends in key business indicators. This survey is designed to parallel the Empire State Manufacturing Survey, though it covers a wider geography and the questions are slightly different. Participants from the service sector respond to a questionnaire and report on a variety of indicators' both in terms of recent and expected changes. While January 2014 is the first published report, survey responses date back to September of 2004 and all historical data are available on our website. The survey is sent on the first business day of each month to the same pool of about 150 business executives, usually the president or CEO, in the region's service sector. In a typical month, about 100 responses are received by around the tenth of the month when the survey closes. Respondents come from a wide range of industries outside of the manufacturing sector, with the mix of respondents closely resembling the industry structure of the region. The survey's headline index, general business activity, is a distinct question posed on the survey (as opposed to a composite of responses to other questions). Currently, no indexes are seasonally adjusted since none of the series exhibits stable seasonal patterns from a statistical perspective."
     },
     {
       "id":323,
@@ -1436,7 +1436,7 @@
       "realtime_end":"2019-05-17",
       "name":"Trimmed Mean PCE Inflation Rate",
       "press_release":true,
-      "link":"http:\/\/www.dallasfed.org\/research\/pce\/",
+      "link":"http://www.dallasfed.org/research/pce/",
       "notes":"The Trimmed Mean PCE inflation rate is an alternative measure of core inflation in the price index for personal consumption expenditures (PCE). It is calculated by staff at the Dallas Fed, using data from the Bureau of Economic Analysis (BEA)."
     },
     {
@@ -1445,7 +1445,7 @@
       "realtime_end":"2019-05-17",
       "name":"Credit to Non-Financial Sector",
       "press_release":false,
-      "link":"https:\/\/www.bis.org\/statistics\/totcredit.htm",
+      "link":"https://www.bis.org/statistics/totcredit.htm",
       "notes":"All series on credit to the non-financial sector cover 40 economies, both advanced and emerging. They capture the outstanding amount of credit at the end of the reference quarter. Credit is provided by domestic banks, all other sectors of the economy and non-residents. In terms of financial instruments, credit covers the core debt, defined as loans, debt securities and currency & deposits."
     },
     {
@@ -1454,7 +1454,7 @@
       "realtime_end":"2019-05-17",
       "name":"Summary of Economic Projections",
       "press_release":false,
-      "link":"http:\/\/www.federalreserve.gov\/monetarypolicy\/fomccalendars.htm"
+      "link":"http://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
     },
     {
       "id":327,
@@ -1462,7 +1462,7 @@
       "realtime_end":"2019-05-17",
       "name":"Debt Securities Statistics",
       "press_release":false,
-      "link":"https:\/\/www.bis.org\/statistics\/secstats.htm"
+      "link":"https://www.bis.org/statistics/secstats.htm"
     },
     {
       "id":328,
@@ -1470,7 +1470,7 @@
       "realtime_end":"2019-05-17",
       "name":"NASDAQ",
       "press_release":false,
-      "link":"http:\/\/www.nasdaq.com\/",
+      "link":"http://www.nasdaq.com/",
       "notes":"National Association of Securities Dealers Automated Quotations"
     },
     {
@@ -1479,7 +1479,7 @@
       "realtime_end":"2019-05-17",
       "name":"Education Statistics",
       "press_release":false,
-      "link":"http:\/\/data.worldbank.org\/data-catalog\/ed-stats"
+      "link":"http://data.worldbank.org/data-catalog/ed-stats"
     },
     {
       "id":330,
@@ -1487,8 +1487,8 @@
       "realtime_end":"2019-05-17",
       "name":"Educational Attainment",
       "press_release":false,
-      "link":"https:\/\/www.census.gov\/programs-surveys\/acs\/",
-      "notes":"Multiyear estimates from the American Community Survey (ACS) are \"period\" estimates derived from a data sample collected over a period of time, as opposed to \"point-in-time\" estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period.\r\n\r\nMultiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010\u20132014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011\u20132015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates.\r\n\r\nPlease see \"Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates\" on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https:\/\/www.census.gov\/content\/dam\/Census\/library\/publications\/2018\/acs\/acs_general_handbook_2018.pdf"
+      "link":"https://www.census.gov/programs-surveys/acs/",
+      "notes":"Multiyear estimates from the American Community Survey (ACS) are “period“ estimates derived from a data sample collected over a period of time, as opposed to “point-in-time“, estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they do not describe any specific day, month, or year within that time period. Multiyear estimates require some considerations that single-year estimates do not. For example, multiyear estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010–2014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011–2015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates. Please see “Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates“ on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https://www.census.gov/content/dam/Census/library/publications/2018/acs/acs_general_handbook_2018.pdf"
     },
     {
       "id":331,
@@ -1496,7 +1496,7 @@
       "realtime_end":"2019-05-17",
       "name":"Gross Domestic Product by Industry",
       "press_release":true,
-      "link":"https:\/\/www.bea.gov\/data\/gdp\/gdp-industry"
+      "link":"https://www.bea.gov/data/gdp/gdp-industry"
     },
     {
       "id":332,
@@ -1504,8 +1504,8 @@
       "realtime_end":"2019-05-17",
       "name":"Weekly and Hourly Earnings from the Current Population Survey",
       "press_release":false,
-      "link":"http:\/\/www.bls.gov\/cps\/earnings.htm",
-      "notes":"The earnings data are collected from one-quarter of the Current Population Survey CPS monthly sample and are limited to wage and salary workers. All self-employed workers are excluded.  Most series pertain to workers who usually work full time on their sole or primary job. \r\n\r\nEarnings data are available for all workers, with data available by age, race, Hispanic or Latino ethnicity, sex, occupation, usual full- or part-time status, educational attainment, and other characteristics."
+      "link":"http://www.bls.gov/cps/earnings.htm",
+      "notes":"The earnings data are collected from one-quarter of the Current Population Survey CPS monthly sample and are limited to wage and salary workers. All self-employed workers are excluded.  Most series pertain to workers who usually work full time on their sole or primary job. Earnings data are available for all workers, with data available by age, race, Hispanic or Latino ethnicity, sex, occupation, usual full- or part-time status, educational attainment, and other characteristics."
     },
     {
       "id":333,
@@ -1513,7 +1513,7 @@
       "realtime_end":"2019-05-17",
       "name":"Chicago Fed Midwest Economy Index",
       "press_release":true,
-      "link":"https:\/\/www.chicagofed.org\/publications\/mei\/index",
+      "link":"https://www.chicagofed.org/publications/mei/index",
       "notes":"The Midwest Economy Index (MEI) is a monthly index designed to measure growth in nonfarm business activity in the Seventh Federal Reserve District. It serves as a regional counterpart to the Chicago Fed National Activity Index."
     },
     {
@@ -1522,7 +1522,7 @@
       "realtime_end":"2019-05-17",
       "name":"Labor Force Status Flows from the Current Population Survey",
       "press_release":true,
-      "link":"http:\/\/www.bls.gov\/cps\/cps_flows.htm"
+      "link":"http://www.bls.gov/cps/cps_flows.htm"
     },
     {
       "id":336,
@@ -1530,7 +1530,7 @@
       "realtime_end":"2019-05-17",
       "name":"Selected Property Price Series",
       "press_release":false,
-      "link":"https:\/\/www.bis.org\/statistics\/pp_selected.htm",
+      "link":"https://www.bis.org/statistics/pp_selected.htm",
       "notes":"These selected series have been rebased and are presented at a quarterly frequency and updated on a quarterly basis; where the frequency of the series collected is monthly, the quarterly data are calculated as the average of the monthly observations. In addition to the nominal price series, and their growth rates, the data set includes CPI-deflated versions of the series (and their growth rates)."
     },
     {
@@ -1539,8 +1539,8 @@
       "realtime_end":"2019-05-17",
       "name":"Federal Reserve Board of Governors Labor Market Conditions Index",
       "press_release":false,
-      "link":"http:\/\/www.federalreserve.gov\/econresdata\/notes\/feds-notes\/2014\/updating-the-labor-market-conditions-index-20141001.html",
-      "notes":"As of August 3, 2017, updates of the labor market conditions index (LMCI) have been discontinued; the July 7, 2017 vintage is the final estimate from this model. We decided to stop updating the LMCI because we believe it no longer provides a good summary of changes in U.S. labor market conditions. Specifically, model estimates turned out to be more sensitive to the detrending procedure than we had expected, the measurement of some indicators in recent years has changed in ways that significantly degraded their signal content, and including average hourly earnings as an indicator did not provide a meaningful link between labor market conditions and wage growth.\r\n\r\nThe LMCI is derived from a dynamic factor model that extracts the primary common variation from 19 labor market indicators."
+      "link":"http://www.federalreserve.gov/econresdata/notes/feds-notes/2014/updating-the-labor-market-conditions-index-20141001.html",
+      "notes":"As of August 3, 2017, updates of the labor market conditions index (LMCI) have been discontinued; the July 7, 2017 vintage is the final estimate from this model. We decided to stop updating the LMCI because we believe it no longer provides a good summary of changes in U.S. labor market conditions. Specifically, model estimates turned out to be more sensitive to the detrending procedure than we had expected, the measurement of some indicators in recent years has changed in ways that significantly degraded their signal content, and including average hourly earnings as an indicator did not provide a meaningful link between labor market conditions and wage growth. The LMCI is derived from a dynamic factor model that extracts the primary common variation from 19 labor market indicators."
     },
     {
       "id":339,
@@ -1548,7 +1548,7 @@
       "realtime_end":"2019-05-17",
       "name":"Transportation Services Index (TSI)",
       "press_release":true,
-      "link":"https:\/\/www.transtats.bts.gov\/OSEA\/TSI\/"
+      "link":"https://www.transtats.bts.gov/OSEA/TSI/"
     },
     {
       "id":341,
@@ -1556,8 +1556,8 @@
       "realtime_end":"2019-05-17",
       "name":"Kansas City Fed Labor Market Conditions Indicators",
       "press_release":true,
-      "link":"http:\/\/www.kc.frb.org\/research\/indicatorsdata\/lmci\/index.cfm",
-      "notes":"The Kansas City Fed Labor Market Conditions Indicators (LMCI) are two monthly measures of labor market conditions based on 24 labor market variables. One indicator measures the level of activity in labor markets and the other indicator measures momentum in labor markets.\r\n\r\nA positive value indicates that labor market conditions are above their long-run average, while a negative value signifies that labor market conditions are below their long-run average."
+      "link":"http://www.kc.frb.org/research/indicatorsdata/lmci/index.cfm",
+      "notes":"The Kansas City Fed Labor Market Conditions Indicators (LMCI) are two monthly measures of labor market conditions based on 24 labor market variables. One indicator measures the level of activity in labor markets and the other indicator measures momentum in labor markets. A positive value indicates that labor market conditions are above their long-run average, while a negative value signifies that labor market conditions are below their long-run average."
     },
     {
       "id":342,
@@ -1565,7 +1565,7 @@
       "realtime_end":"2019-05-17",
       "name":"Natural Gas Spot and Futures Prices (NYMEX)",
       "press_release":true,
-      "link":"http:\/\/www.eia.gov\/dnav\/ng\/ng_pri_fut_s1_d.htm",
+      "link":"http://www.eia.gov/dnav/ng/ng_pri_fut_s1_d.htm",
       "notes":"Prices are based on delivery at the Henry Hub in Louisiana. Official daily closing prices at 2:30 p.m. from the trading floor of the New York Mercantile Exchange (NYMEX) for a specific delivery month."
     },
     {
@@ -1574,7 +1574,7 @@
       "realtime_end":"2019-05-17",
       "name":"Metro Area Economic Conditions Indexes",
       "press_release":false,
-      "link":"http:\/\/research.stlouisfed.org\/wp\/more\/2014-046\/"
+      "link":"http://research.stlouisfed.org/wp/more/2014-046/"
     },
     {
       "id":345,
@@ -1582,8 +1582,8 @@
       "realtime_end":"2019-05-17",
       "name":"Experimental Consumer Price Index",
       "press_release":false,
-      "link":"http:\/\/www.bls.gov\/news.release\/cpi.br12396.a06.htm",
-      "notes":"In addition to  the official CPIs for All Urban Consumers (CPI-U), the chained CPI for All Urban Consumers (C-CPI-U), and Urban Wage Earners and Clerical Workers (CPI-W), the CPI calculates an experimental price index for Americans 62 years of age and older. There are several limitations in  the experimental price index which must be considered and understood by potential users of the data.\r\n\r\nGo to http:\/\/www.bls.gov\/news.release\/cpi.br12396.a06.htm for more information."
+      "link":"http://www.bls.gov/news.release/cpi.br12396.a06.htm",
+      "notes":"In addition to  the official CPIs for All Urban Consumers (CPI-U), the chained CPI for All Urban Consumers (C-CPI-U), and Urban Wage Earners and Clerical Workers (CPI-W), the CPI calculates an experimental price index for Americans 62 years of age and older. There are several limitations in  the experimental price index which must be considered and understood by potential users of the data. Go to http://www.bls.gov/news.release/cpi.br12396.a06.htm for more information."
     },
     {
       "id":346,
@@ -1591,7 +1591,7 @@
       "realtime_end":"2019-05-17",
       "name":"Small Area Income and Poverty Estimates",
       "press_release":true,
-      "link":"https:\/\/www.census.gov\/programs-surveys\/saipe.html",
+      "link":"https://www.census.gov/programs-surveys/saipe.html",
       "notes":"Small Area Income and Poverty Estimates (SAIPE) are produced for school districts, counties, and states. The main objective of this program is to provide updated estimates of income and poverty statistics for the administration of federal programs and the allocation of federal funds to local jurisdictions. These estimates combine data from administrative records, postcensal population estimates, and the decennial census with direct estimates from the American Community Survey to provide consistent and reliable single-year estimates. These model-based single-year estimates are more reflective of current conditions than multi-year survey estimates."
     },
     {
@@ -1600,7 +1600,7 @@
       "realtime_end":"2019-05-17",
       "name":"U.S. Transportation Data",
       "press_release":false,
-      "link":"http:\/\/www.transtats.bts.gov\/osea\/seasonaladjustment\/"
+      "link":"http://www.transtats.bts.gov/osea/seasonaladjustment/"
     },
     {
       "id":351,
@@ -1608,7 +1608,7 @@
       "realtime_end":"2019-05-17",
       "name":"Manufacturing Business Outlook Survey",
       "press_release":true,
-      "link":"http:\/\/www.philadelphiafed.org\/research-and-data\/regional-economy\/business-outlook-survey\/",
+      "link":"http://www.philadelphiafed.org/research-and-data/regional-economy/business-outlook-survey/",
       "notes":"The Manufacturing Business Outlook Survey is a monthly survey of manufacturers in the Third Federal Reserve District. Participants indicate the direction of change in overall business activity and in the various measures of activity at their plants: employment, working hours, new and unfilled orders, shipments, inventories, delivery times, prices paid, and prices received. The survey has been conducted each month since May 1968."
     },
     {
