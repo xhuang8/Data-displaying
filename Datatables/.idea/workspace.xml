@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dataTables/releases.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="2038" column="1427" lean-forward="true" selection-start-line="2038" selection-start-column="1427" selection-end-line="2038" selection-end-column="1427" />
+            <state relative-caret-position="39060">
+              <caret line="2219" column="5" lean-forward="true" selection-start-line="2219" selection-start-column="5" selection-end-line="2219" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -56,8 +56,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="36" />
-    <option name="y" value="305" />
+    <option name="x" value="27" />
+    <option name="y" value="211" />
     <option name="width" value="1400" />
     <option name="height" value="731" />
   </component>
@@ -128,15 +128,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557962193841</updated>
-      <workItem from="1557962195051" duration="20867000" />
+      <workItem from="1557962195051" duration="22594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20867000" />
+    <option name="totallyTimeSpent" value="22594000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="305" width="1400" height="731" extended-state="0" />
+    <frame x="27" y="211" width="1400" height="731" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -256,8 +256,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dataTables/releases.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="2038" column="1427" lean-forward="true" selection-start-line="2038" selection-start-column="1427" selection-end-line="2038" selection-end-column="1427" />
+        <state relative-caret-position="39060">
+          <caret line="2219" column="5" lean-forward="true" selection-start-line="2219" selection-start-column="5" selection-end-line="2219" selection-end-column="5" />
         </state>
       </provider>
     </entry>
