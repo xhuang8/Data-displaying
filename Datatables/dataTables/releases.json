@@ -1643,7 +1643,7 @@
       "realtime_end":"2019-05-17",
       "name":"Minimum Wage Rates",
       "press_release":false,
-      "link":"http:\/\/www.dol.gov\/whd\/minimumwage.htm"
+      "link":"http://www.dol.gov/whd/minimumwage.htm"
     },
     {
       "id":356,
@@ -1651,7 +1651,7 @@
       "realtime_end":"2019-05-17",
       "name":"Fixed Assets",
       "press_release":true,
-      "link":"https:\/\/www.bea.gov\/data\/investment-fixed-assets"
+      "link":"https://www.bea.gov/data/investment-fixed-assets"
     },
     {
       "id":357,
@@ -1659,7 +1659,7 @@
       "realtime_end":"2019-05-17",
       "name":"Hours of Wage and Salary Workers on Nonfarm Payrolls by Sector",
       "press_release":true,
-      "link":"http:\/\/www.bls.gov\/lpc\/hoursdatainfo.htm"
+      "link":"http//www.bls.gov/lpc/hoursdatainfo.htm"
     },
     {
       "id":358,
@@ -1675,7 +1675,7 @@
       "realtime_end":"2019-05-17",
       "name":"U.S. International Investment Position",
       "press_release":true,
-      "link":"https:\/\/www.bea.gov\/data\/intl-trade-investment\/international-investment-position"
+      "link":"https://www.bea.gov/data/intl-trade-investment/international-investment-position"
     },
     {
       "id":360,
@@ -1683,7 +1683,7 @@
       "realtime_end":"2019-05-17",
       "name":"Health Care Satellite Account",
       "press_release":false,
-      "link":"https:\/\/www.bea.gov\/products\/health-care"
+      "link":"https://www.bea.gov/products/health-care"
     },
     {
       "id":362,
@@ -1691,7 +1691,7 @@
       "realtime_end":"2019-05-17",
       "name":"Quarterly Census of Employment and Wages",
       "press_release":true,
-      "link":"http:\/\/www.bls.gov\/cew\/home.htm"
+      "link":"http://www.bls.gov/cew/home.htm"
     },
     {
       "id":363,
@@ -1699,7 +1699,7 @@
       "realtime_end":"2019-05-17",
       "name":"Monthly Treasury Statement",
       "press_release":true,
-      "link":"https:\/\/www.fiscal.treasury.gov\/fsreports\/rpt\/mthTreasStmt\/current.htm"
+      "link":"https://www.fiscal.treasury.gov/fsreports/rpt/mthTreasStmt/current.htm"
     },
     {
       "id":364,
@@ -1714,7 +1714,7 @@
       "realtime_end":"2019-05-17",
       "name":"Primary Commodity Prices",
       "press_release":false,
-      "link":"https:\/\/www.imf.org\/external\/np\/res\/commod\/index.aspx",
+      "link":"https://www.imf.org/external/np/res/commod/index.aspx",
       "notes":"Benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars. Price indices are based in 2005 (average of 2005 = 100)."
     },
     {
@@ -1723,7 +1723,7 @@
       "realtime_end":"2019-05-17",
       "name":"Asia and Pacific Regional Economic Outlook",
       "press_release":false,
-      "link":"http:\/\/data.imf.org\/?sk=ABFF6C02-73A8-475C-89CC-AD515033E662",
+      "link":"http://data.imf.org/?sk=ABFF6C02-73A8-475C-89CC-AD515033E662",
       "notes":"APD Regional Economic Outlook provides information on recent economic developments and prospects for countries in Asia and the Pacific."
     },
     {
@@ -1732,7 +1732,7 @@
       "realtime_end":"2019-05-17",
       "name":"Western Hemisphere Regional Economic Outlook",
       "press_release":false,
-      "link":"http:\/\/data.imf.org\/?sk=3E40CD07-7BD1-404F-BFCE-24018D2D85D2"
+      "link":"http://data.imf.org/?sk=3E40CD07-7BD1-404F-BFCE-24018D2D85D2"
     },
     {
       "id":368,
@@ -1740,8 +1740,8 @@
       "realtime_end":"2019-05-17",
       "name":"Middle East and Central Asia Regional Economic Outlook",
       "press_release":false,
-      "link":"http:\/\/data.imf.org\/?sk=4CC54C86-F659-4B16-ABF5-FAB77D52D2E6&ss=1390030109571",
-      "notes":"The IMF\u2019s Middle East and Central Asia Department (MCD) countries and territories comprise Afghanistan, Algeria, Armenia, Azerbaijan, Bahrain, Djibouti, Egypt, Georgia, Iran, Iraq, Jordan, Kazakhstan, Kuwait, the Kyrgyz Republic, Lebanon, Libya, Mauritania, Morocco, Oman, Pakistan, Qatar, Saudi Arabia, Somalia, Sudan, Syria, Tajikistan, Tunisia, Turkmenistan, the United Arab Emirates, Uzbekistan, the West Bank and Gaza, and Yemen.\r\n\r\nMore information about forecasting methodology is available at http:\/\/data.imf.org\/?sk=4CC54C86-F659-4B16-ABF5-FAB77D52D2E6&ss=1390288795525.\r\n\r\nThe base year for constant prices differs by nation. More information is available at https:\/\/www.imf.org\/external\/pubs\/ft\/weo\/2015\/02\/weodata\/co.pdf."
+      "link":"http://data.imf.org/?sk=4CC54C86-F659-4B16-ABF5-FAB77D52D2E6&ss=1390030109571",
+      "notes":"The IMF's Middle East and Central Asia Department (MCD) countries and territories comprise Afghanistan, Algeria, Armenia, Azerbaijan, Bahrain, Djibouti, Egypt, Georgia, Iran, Iraq, Jordan, Kazakhstan, Kuwait, the Kyrgyz Republic, Lebanon, Libya, Mauritania, Morocco, Oman, Pakistan, Qatar, Saudi Arabia, Somalia, Sudan, Syria, Tajikistan, Tunisia, Turkmenistan, the United Arab Emirates, Uzbekistan, the West Bank and Gaza, and Yemen. More information about forecasting methodology is available at http://data.imf.org/?sk=4CC54C86-F659-4B16-ABF5-FAB77D52D2E6&ss=1390288795525. The base year for constant prices differs by nation. More information is available at https://www.imf.org/external/pubs/ft/weo/2015/02/weodata/co.pdf."
     },
     {
       "id":369,
@@ -1749,7 +1749,7 @@
       "realtime_end":"2019-05-17",
       "name":"Sub-Saharan Africa Regional Economic Outlook",
       "press_release":false,
-      "link":"http:\/\/data.imf.org\/?sk=5778F645-51FB-4F37-A775-B8FECD6BC69B",
+      "link":"http://data.imf.org/?sk=5778F645-51FB-4F37-A775-B8FECD6BC69B",
       "notes":"The Sub-Saharan Africa Regional Economic Outlook provides information on recent economic developments and prospects for countries in Sub-Saharan Africa. Data for the REO for Sub-Saharan Africa is prepared in conjunction with the semi-annual World Economic Outlook exercises, spring and fall. Data are consistent with the projections underlying the WEO. REO aggregate data may differ from WEO aggregates due to differences in group membership. Composite data for country groups are weighted averages of data for individual countries. Arithmetic weighted averages are used for all concepts except for inflation and broad money, for which geometric averages are used. PPP GDP weights from the WEO database are used for the aggregation of real GDP growth, real non-oil GDP growth, real per capita GDP growth, investment, national savings, broad money, claims on the nonfinancial private sector, and real and nominal effective exchange rates. Aggregates for other concepts are weighted by GDP in U.S. dollars at market exchange rates."
     },
     {
@@ -1758,7 +1758,7 @@
       "realtime_end":"2019-05-17",
       "name":"Financial Access Survey",
       "press_release":false,
-      "link":"http:\/\/data.imf.org\/?sk=E5DCAB7E-A5CA-4892-A6EA-598B5463A34C",
+      "link":"http://data.imf.org/?sk=E5DCAB7E-A5CA-4892-A6EA-598B5463A34C",
       "notes":"The Financial Access Survey is the sole source of global supply-side data on financial inclusion, encompassing internationally-comparable basic indicators of financial access and usage. In addition to providing policy makers and researchers with annual geographic and demographic data access on basic consumer financial services worldwide, the survey is the data source for the G-20 Basic Set of Financial Inclusion Indicators endorsed by the G-20 Leaders at the Los Cabos Summit of June 2012."
     },
     {
@@ -1767,7 +1767,7 @@
       "realtime_end":"2019-05-17",
       "name":"Hornstein-Kudlyak-Lange Non-Employment Index",
       "press_release":true,
-      "link":"https:\/\/www.richmondfed.org\/research\/national_economy\/non_employment_index",
+      "link":"https://www.richmondfed.org/research/national_economy/non_employment_index",
       "notes":"The Hornstein-Kudlyak-Lange Non-Employment Index (NEI) is an alternative to the standard unemployment rate that includes all non-employed individuals and accounts for persistent differences in their labor market attachment. It provides a more comprehensive reading of labor market health and is based on research first published by Richmond Fed economists Andreas Hornstein and Marianna Kudlyak, and McGill University economist Fabian Lange."
     },
     {
@@ -1776,8 +1776,8 @@
       "realtime_end":"2019-05-17",
       "name":"Chicago Fed Survey of Business Conditions",
       "press_release":true,
-      "link":"https:\/\/www.chicagofed.org\/publications\/cfsbc\/index",
-      "notes":"The Chicago Fed Survey of Business Conditions (CFSBC) is a survey of business contacts conducted to support the Seventh Federal Reserve District\u2019s contribution to the Beige Book."
+      "link":"https://www.chicagofed.org/publications/cfsbc/index",
+      "notes":"The Chicago Fed Survey of Business Conditions (CFSBC) is a survey of business contacts conducted to support the Seventh Federal Reserve District's contribution to the Beige Book."
     },
     {
       "id":373,
@@ -1785,7 +1785,7 @@
       "realtime_end":"2019-05-17",
       "name":"GDP-Based Recession Indicator Index",
       "press_release":true,
-      "link":"http:\/\/econbrowser.com\/recession-index",
+      "link":"http://econbrowser.com/recession-index",
       "notes":"This index measures the probability that the U.S. economy was in a recession during the indicated quarter.  It is based on a mathematical description of the way that recessions differ from expansions."
     },
     {
@@ -1794,7 +1794,7 @@
       "realtime_end":"2019-05-17",
       "name":"Texas Manufacturing Outlook Survey",
       "press_release":true,
-      "link":"https:\/\/www.dallasfed.org\/research\/surveys\/tmos.aspx",
+      "link":"https://www.dallasfed.org/research/surveys/tmos.aspx",
       "notes":"The Texas Manufacturing Outlook Survey (TMOS) is a monthly survey of area manufacturers. Firm executives report on how business conditions have changed for a number of indicators, such as production, new orders, employment, prices and company outlook. Respondents are also asked to report on how they perceive broader economic conditions to have changed (general business activity). For all questions, participants are asked whether the indicator has increased, decreased or remained unchanged. Answers cover changes over the previous month and expectations for activity six months into the future. Participants are given the opportunity to submit comments on current issues that may be affecting their business."
     },
     {
@@ -1803,7 +1803,7 @@
       "realtime_end":"2019-05-17",
       "name":"Overnight Bank Funding Rate Data",
       "press_release":false,
-      "link":"https:\/\/apps.newyorkfed.org\/markets\/autorates\/obfr"
+      "link":"https://apps.newyorkfed.org/markets/autorates/obfr"
     },
     {
       "id":376,
@@ -1811,8 +1811,8 @@
       "realtime_end":"2019-05-17",
       "name":"Texas Service Sector Outlook Survey",
       "press_release":true,
-      "link":"http:\/\/dallasfed.org\/microsites\/research\/surveys\/tssos\/index.cfm",
-      "notes":"The Texas Service Sector Outlook Survey (TSSOS) is a monthly survey of area service sector businesses. Firm executives report on how business conditions have changed for a number of indicators such as revenue, employment, prices and company outlook. Respondents are also asked to report on how they perceive broader economic conditions to have changed (general business activity). For all questions, participants are asked whether the indicator has increased, decreased or remained unchanged. Answers cover changes over the previous month and expectations for activity six months into the future. Participants are given the opportunity to submit comments on current issues that may be affecting their business.\r\n\r\nAbout 230 service-providing firms regularly participate in TSSOS, which began collecting data in January 2007. Respondents are broadly representative of service-producing industries in the private sector. TSSOS includes a breakout for respondents in the retail and wholesale sectors, called the Texas Retail Outlook Survey (TROS). TSSOS questionnaires are electronically transmitted to respondents in the middle of each month, and answers are collected over seven business days. TROS respondents receive a slightly different questionnaire, but the survey period and processing is the same.\r\n\r\nThe service sector makes up the bulk of the Texas economy, accounting for 59 percent of private-sector activity and employing close to 7 million workers. Retailers and wholesalers make up 12 percent of Texas output and account for 1.6 million jobs. Despite the service sector's prominence, there are few timely measures of changes in service sector activity at the state level. TSSOS fills this regional data gap. TSSOS and its retail component, TROS, are highly correlated with monthly changes in regional economic indicators such as private service sector employment, retail employment and retail sales (see related article below)."
+      "link":"http://dallasfed.org/microsites/research/surveys/tssos/index.cfm",
+      "notes":"The Texas Service Sector Outlook Survey (TSSOS) is a monthly survey of area service sector businesses. Firm executives report on how business conditions have changed for a number of indicators such as revenue, employment, prices and company outlook. Respondents are also asked to report on how they perceive broader economic conditions to have changed (general business activity). For all questions, participants are asked whether the indicator has increased, decreased or remained unchanged. Answers cover changes over the previous month and expectations for activity six months into the future. Participants are given the opportunity to submit comments on current issues that may be affecting their business. About 230 service-providing firms regularly participate in TSSOS, which began collecting data in January 2007. Respondents are broadly representative of service-producing industries in the private sector. TSSOS includes a breakout for respondents in the retail and wholesale sectors, called the Texas Retail Outlook Survey (TROS). TSSOS questionnaires are electronically transmitted to respondents in the middle of each month, and answers are collected over seven business days. TROS respondents receive a slightly different questionnaire, but the survey period and processing is the same. The service sector makes up the bulk of the Texas economy, accounting for 59 percent of private-sector activity and employing close to 7 million workers. Retailers and wholesalers make up 12 percent of Texas output and account for 1.6 million jobs. Despite the service sector's prominence, there are few timely measures of changes in service sector activity at the state level. TSSOS fills this regional data gap. TSSOS and its retail component, TROS, are highly correlated with monthly changes in regional economic indicators such as private service sector employment, retail employment and retail sales (see related article below)."
     },
     {
       "id":377,
@@ -1820,8 +1820,8 @@
       "realtime_end":"2019-05-17",
       "name":"Texas Retail Outlook Survey",
       "press_release":true,
-      "link":"http:\/\/dallasfed.org\/microsites\/research\/surveys\/tssos\/index.cfm#tros",
-      "notes":"The Texas Retail Outlook Survey (TROS) is a monthly survey of area service sector businesses, specifically retail businesses. Firm executives report on how business conditions have changed for a number of indicators such as revenue, employment, prices and company outlook. Respondents are also asked to report on how they perceive broader economic conditions to have changed (general business activity). For all questions, participants are asked whether the indicator has increased, decreased or remained unchanged. Answers cover changes over the previous month and expectations for activity six months into the future. Participants are given the opportunity to submit comments on current issues that may be affecting their business.\r\n\r\nAbout 230 service-providing firms regularly participate in TSSOS, which began collecting data in January 2007. Respondents are broadly representative of service-producing industries in the private sector. TSSOS includes a breakout for respondents in the retail and wholesale sectors, called the Texas Retail Outlook Survey (TROS). TSSOS questionnaires are electronically transmitted to respondents in the middle of each month, and answers are collected over seven business days. TROS respondents receive a slightly different questionnaire, but the survey period and processing is the same.\r\n\r\nThe service sector makes up the bulk of the Texas economy, accounting for 59 percent of private-sector activity and employing close to 7 million workers. Retailers and wholesalers make up 12 percent of Texas output and account for 1.6 million jobs. Despite the service sector's prominence, there are few timely measures of changes in service sector activity at the state level. TSSOS fills this regional data gap. TSSOS and its retail component, TROS, are highly correlated with monthly changes in regional economic indicators such as private service sector employment, retail employment and retail sales (see related article below)."
+      "link":"http://dallasfed.org/microsites/research/surveys/tssos/index.cfm#tros",
+      "notes":"The Texas Retail Outlook Survey (TROS) is a monthly survey of area service sector businesses, specifically retail businesses. Firm executives report on how business conditions have changed for a number of indicators such as revenue, employment, prices and company outlook. Respondents are also asked to report on how they perceive broader economic conditions to have changed (general business activity). For all questions, participants are asked whether the indicator has increased, decreased or remained unchanged. Answers cover changes over the previous month and expectations for activity six months into the future. Participants are given the opportunity to submit comments on current issues that may be affecting their business. About 230 service-providing firms regularly participate in TSSOS, which began collecting data in January 2007. Respondents are broadly representative of service-producing industries in the private sector. TSSOS includes a breakout for respondents in the retail and wholesale sectors, called the Texas Retail Outlook Survey (TROS). TSSOS questionnaires are electronically transmitted to respondents in the middle of each month, and answers are collected over seven business days. TROS respondents receive a slightly different questionnaire, but the survey period and processing is the same. The service sector makes up the bulk of the Texas economy, accounting for 59 percent of private-sector activity and employing close to 7 million workers. Retailers and wholesalers make up 12 percent of Texas output and account for 1.6 million jobs. Despite the service sector's prominence, there are few timely measures of changes in service sector activity at the state level. TSSOS fills this regional data gap. TSSOS and its retail component, TROS, are highly correlated with monthly changes in regional economic indicators such as private service sector employment, retail employment and retail sales (see related article below)."
     },
     {
       "id":378,
@@ -1829,7 +1829,7 @@
       "realtime_end":"2019-05-17",
       "name":"Federal Funds Data",
       "press_release":false,
-      "link":"https:\/\/apps.newyorkfed.org\/markets\/autorates\/fed%20funds"
+      "link":"https://apps.newyorkfed.org/markets/autorates/fed%20funds"
     },
     {
       "id":379,
@@ -1837,7 +1837,7 @@
       "realtime_end":"2019-05-17",
       "name":"Temporary Open Market Operations",
       "press_release":false,
-      "link":"https:\/\/apps.newyorkfed.org\/markets\/autorates\/temp"
+      "link":"https://apps.newyorkfed.org/markets/autorates/temp"
     },
     {
       "id":382,
@@ -1845,8 +1845,8 @@
       "realtime_end":"2019-05-17",
       "name":"Real Trade-Weighted Value of the Dollar by U.S. State",
       "press_release":true,
-      "link":"https:\/\/www.dallasfed.org\/research\/econdata\/rtwvd.aspx",
-      "notes":"These indexes calculate the inflation-adjusted value of the U.S. dollar against the currencies of countries to which the state exports. The real exchange rates are aggregated across countries for each state using the annual average export share to the country. For the most recent year where export share data is not available, the prior year' number is used instead. The indexes should allow analysts to more precisely identify the exchange rate movements that most affect demand for a state's exports. For more information visit http:\/\/www.dallasfed.org\/research\/econdata\/rtwvd.cfm."
+      "link":"https://www.dallasfed.org/research/econdata/rtwvd.aspx",
+      "notes":"These indexes calculate the inflation-adjusted value of the U.S. dollar against the currencies of countries to which the state exports. The real exchange rates are aggregated across countries for each state using the annual average export share to the country. For the most recent year where export share data is not available, the prior year' number is used instead. The indexes should allow analysts to more precisely identify the exchange rate movements that most affect demand for a state's exports. For more information visit http://www.dallasfed.org/research/econdata/rtwvd.cfm."
     },
     {
       "id":383,
@@ -1854,7 +1854,7 @@
       "realtime_end":"2019-05-17",
       "name":"Market Value of U.S. Government Debt",
       "press_release":true,
-      "link":"http:\/\/www.dallasfed.org\/research\/econdata\/govdebt.cfm",
+      "link":"http://www.dallasfed.org/research/econdata/govdebt.cfm",
       "notes":"For many uses, market value more accurately represents the debt burden faced by the U.S. government than the par value. The par value of government debt, which is reported by the U.S. Treasury Department, reflects interest rates at the time the debt was issued while the market value is adjusted to reflect market interest rates as of the observed period. Federal Reserve Bank of Dallas researchers calculate the market value of U.S. government debt series."
     },
     {
@@ -1863,7 +1863,7 @@
       "realtime_end":"2019-05-17",
       "name":"Characteristics of Minimum Wage Workers",
       "press_release":false,
-      "link":"http:\/\/www.bls.gov\/cps\/earnings.htm#minwage"
+      "link":"http://www.bls.gov/cps/earnings.htm#minwage"
     },
     {
       "id":386,
@@ -1871,8 +1871,8 @@
       "realtime_end":"2019-05-17",
       "name":"GDPNow",
       "press_release":true,
-      "link":"https:\/\/www.frbatlanta.org\/cqer\/research\/gdpnow.aspx?panel=1",
-      "notes":"The growth rate of real gross domestic product (GDP) is a key indicator of economic activity, but the official estimate is released with a delay. The Federal Reserve Bank of Atlanta's GDPNow forecasting model provides a \"nowcast\" of the official estimate prior to its release."
+      "link":"https://www.frbatlanta.org/cqer/research/gdpnow.aspx?panel=1",
+      "notes":"The growth rate of real gross domestic product (GDP) is a key indicator of economic activity, but the official estimate is released with a delay. The Federal Reserve Bank of Atlanta's GDPNow forecasting model provides a “nowcast” of the official estimate prior to its release."
     },
     {
       "id":387,
@@ -1880,7 +1880,7 @@
       "realtime_end":"2019-05-17",
       "name":"Minimum Wage Rate by State",
       "press_release":false,
-      "link":"https:\/\/www.dol.gov\/whd\/minwage\/america.htm"
+      "link":"https://www.dol.gov/whd/minwage/america.htm"
     },
     {
       "id":388,
@@ -1888,7 +1888,7 @@
       "realtime_end":"2019-05-17",
       "name":"Banking and Monetary Statistics, 1914-1941",
       "press_release":false,
-      "link":"https:\/\/fraser.stlouisfed.org\/title\/38",
+      "link":"https://fraser.stlouisfed.org/title/38",
       "notes":"Contains banking and monetary statistics previously appearing in the Annual Reports of the Board of Governors of the Federal Reserve and the Federal Reserve Bulletin. Includes data on the condition and operation of all banks as well as statistics on non-bank financial institutions, currency, money rates, securities, consumer credit, gold, and international financial developments."
     },
     {
@@ -1897,7 +1897,7 @@
       "realtime_end":"2019-05-17",
       "name":"A Millennium of Macroeconomic Data for the UK",
       "press_release":false,
-      "link":"https:\/\/www.bankofengland.co.uk\/statistics\/research-datasets"
+      "link":"https://www.bankofengland.co.uk/statistics/research-datasets"
     },
     {
       "id":391,
@@ -1905,7 +1905,7 @@
       "realtime_end":"2019-05-17",
       "name":"Personal Consumption Expenditures by State",
       "press_release":true,
-      "link":"https:\/\/www.bea.gov\/data\/consumer-spending\/state",
+      "link":"https://www.bea.gov/data/consumer-spending/state",
       "notes":"Release contains both per capita personal consumption expenditures and personal consumption expenditures by state. This data set also contains sector based data each state."
     },
     {
@@ -1914,7 +1914,7 @@
       "realtime_end":"2019-05-17",
       "name":"Spliced Oil Price",
       "press_release":true,
-      "notes":"The Spliced Oil Price release was created by the Federal Reserve Bank of St. Louis to expand the history of the monthly West Texas Intermediate oil price series in FRED. We simply combined these two FRED series: https:\/\/fred.stlouisfed.org\/series\/OILPRICE and https:\/\/fred.stlouisfed.org\/series\/MCOILWTICO. From January 1946 through July 2013, the series used is OILPRICE. From August 2013 to present, the series used is MCOILWTICO."
+      "notes":"The Spliced Oil Price release was created by the Federal Reserve Bank of St. Louis to expand the history of the monthly West Texas Intermediate oil price series in FRED. We simply combined these two FRED series: https://fred.stlouisfed.org/series/OILPRICE and https://fred.stlouisfed.org/series/MCOILWTICO. From January 1946 through July 2013, the series used is OILPRICE. From August 2013 to present, the series used is MCOILWTICO."
     },
     {
       "id":395,
@@ -1922,7 +1922,7 @@
       "realtime_end":"2019-05-17",
       "name":"Families and Living Arrangements",
       "press_release":false,
-      "link":"https:\/\/www.census.gov\/topics\/families\/families-and-households.html"
+      "link":"https://www.census.gov/topics/families/families-and-households.html"
     },
     {
       "id":396,
@@ -1937,7 +1937,7 @@
       "realtime_end":"2019-05-17",
       "name":"Gross Domestic Product (GDP) by Metropolitan Area",
       "press_release":true,
-      "link":"https:\/\/www.bea.gov\/data\/gdp\/gdp-metropolitan-area"
+      "link":"https://www.bea.gov/data/gdp/gdp-metropolitan-area"
     },
     {
       "id":399,
@@ -1945,8 +1945,8 @@
       "realtime_end":"2019-05-17",
       "name":"Net Migration Flows for Counties and County Equivalents in the United States",
       "press_release":true,
-      "link":"https:\/\/www.census.gov\/topics\/population\/migration\/guidance\/county-to-county-migration-flows.html",
-      "notes":"The American Community Survey (ACS) and the Puerto Rico Community Survey (PRCS) asked members of households whether they lived in the same residence 1 year ago. For people who lived in a different residence, the location of their previous residence is collected.\r\n\r\nACS uses a series of monthly samples to produce estimates. Estimates for geographies of population 65,000 or greater are published annually using these monthly samples. Three years of monthly samples are needed to publish estimates for geographies of 20,000 or greater and five years for smaller geographies. The 5-year dataset is used for the county-to-county migration flows since many counties have a population less than 20,000. The first 5-year ACS dataset covers the years 2005 through 2009.\r\n\r\nMultiyear estimates from the American Community Survey (ACS) are \"period\" estimates derived from a data sample collected over a period of time, as opposed to \"point-in-time\" estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period.\r\n\r\nMultiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010\u20132014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011\u20132015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates.\r\n\r\nPlease see \"Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates\" on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https:\/\/www.census.gov\/content\/dam\/Census\/library\/publications\/2018\/acs\/acs_general_handbook_2018.pdf"
+      "link":"https://www.census.gov/topics/population/migration/guidance/county-to-county-migration-flows.html",
+      "notes":"The American Community Survey (ACS) and the Puerto Rico Community Survey (PRCS) asked members of households whether they lived in the same residence 1 year ago. For people who lived in a different residence, the location of their previous residence is collected. ACS uses a series of monthly samples to produce estimates. Estimates for geographies of population 65,000 or greater are published annually using these monthly samples. Three years of monthly samples are needed to publish estimates for geographies of 20,000 or greater and five years for smaller geographies. The 5-year dataset is used for the county-to-county migration flows since many counties have a population less than 20,000. The first 5-year ACS dataset covers the years 2005 through 2009. Multiyear estimates from the American Community Survey (ACS) are “period” estimates derived from a data sample collected over a period of time, as opposed to “point-in-time” estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period. Multiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010-2014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011-2015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates. Please see “Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates“ on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https://www.census.gov/content/dam/Census/library/publications/2018/acs/acs_general_handbook_2018.pdf"
     },
     {
       "id":400,
@@ -1954,7 +1954,7 @@
       "realtime_end":"2019-05-17",
       "name":"St. Louis Fed Economic News Index",
       "press_release":false,
-      "link":"https:\/\/research.stlouisfed.org\/publications\/review\/2016\/12\/05\/a-macroeconomic-news-index-for-constructing-nowcasts-of-u-s-real-gross-domestic-product-growth\/"
+      "link":"https://research.stlouisfed.org/publications/review/2016/12/05/a-macroeconomic-news-index-for-constructing-nowcasts-of-u-s-real-gross-domestic-product-growth/"
     },
     {
       "id":401,
@@ -1962,7 +1962,7 @@
       "realtime_end":"2019-05-17",
       "name":"SOI Tax Stats - Historical Data Tables",
       "press_release":false,
-      "link":"https:\/\/www.irs.gov\/uac\/soi-tax-stats-historical-data-tables"
+      "link":"https://www.irs.gov/uac/soi-tax-stats-historical-data-tables"
     },
     {
       "id":402,
@@ -1970,7 +1970,7 @@
       "realtime_end":"2019-05-17",
       "name":"Corporate Bond Yield Curve",
       "press_release":false,
-      "link":"https:\/\/www.treasury.gov\/resource-center\/economic-policy\/corp-bond-yield\/Pages\/Corp-Yield-Bond-Curve-Papers.aspx"
+      "link":"https://www.treasury.gov/resource-center/economic-policy/corp-bond-yield/Pages/Corp-Yield-Bond-Curve-Papers.aspx"
     },
     {
       "id":403,
@@ -1978,7 +1978,7 @@
       "realtime_end":"2019-05-17",
       "name":"Real Personal Income for States and Metropolitan Areas",
       "press_release":true,
-      "link":"https:\/\/www.bea.gov\/data\/income-saving\/real-personal-income-states-and-metropolitan-areas",
+      "link":"https://www.bea.gov/data/income-saving/real-personal-income-states-and-metropolitan-areas",
       "notes":"This release contains regional data for States, Metropolitan Portion of States, Nonmetropolitan Portion of States, and Metropolitan Areas. The indicators in this data release include Real Personal Income, Real Per Capita Personal Income, Regional Price Parities, and Implicit Price Deflator."
     },
     {
@@ -1987,7 +1987,7 @@
       "realtime_end":"2019-05-17",
       "name":"Homeownership Rate",
       "press_release":false,
-      "notes":"The American Community Survey Homeownership Rate is computed by dividing the number of households who own their residence by the total number of occupied housing units.\r\n\r\nA housing unit is classified as occupied if (i) it is the current place of residence of the person or group of persons living in it at the time of interview or (ii) the occupants are only temporarily absent from the residence for two months or less (e.g., on vacation or a business trip). If all those staying in the unit at the time of the interview plan to stay there for two months or less, the unit is considered to be temporarily occupied and classified as \u201cvacant.\u201d \r\n\r\nMultiyear estimates from the American Community Survey (ACS) are \"period\" estimates derived from a data sample collected over a period of time, as opposed to \"point-in-time\" estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period.\r\n\r\nMultiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010\u20132014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011\u20132015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates.\r\n\r\nPlease see \"Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates\" on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https:\/\/www.census.gov\/content\/dam\/Census\/library\/publications\/2018\/acs\/acs_general_handbook_2018.pdf"
+      "notes":"The American Community Survey Homeownership Rate is computed by dividing the number of households who own their residence by the total number of occupied housing units. A housing unit is classified as occupied if (i) it is the current place of residence of the person or group of persons living in it at the time of interview or (ii) the occupants are only temporarily absent from the residence for two months or less (e.g., on vacation or a business trip). If all those staying in the unit at the time of the interview plan to stay there for two months or less, the unit is considered to be temporarily occupied and classified as “vacant.” Multiyear estimates from the American Community Survey (ACS) are “period” estimates derived from a data sample collected over a period of time, as opposed to “point-in-time” estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period. Multiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010-2014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011-2015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates. Please see “Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates” on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https://www.census.gov/content/dam/Census/library/publications/2018/acs/acs_general_handbook_2018.pdf"
     },
     {
       "id":408,
@@ -1995,7 +1995,7 @@
       "realtime_end":"2019-05-17",
       "name":"Disconnected Youth",
       "press_release":false,
-      "notes":"Disconnected Youth represents the percentage of youth in a county who are between the ages of 16 and 19, who are not enrolled in school, and who are unemployed or not in the labor force.\r\n\r\nMultiyear estimates from the American Community Survey (ACS) are \"period\" estimates derived from a data sample collected over a period of time, as opposed to \"point-in-time\" estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period.\r\n\r\nMultiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010\u20132014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011\u20132015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates.\r\n\r\nPlease see \"Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates\" on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https:\/\/www.census.gov\/content\/dam\/Census\/library\/publications\/2018\/acs\/acs_general_handbook_2018.pdf"
+      "notes":"Disconnected Youth represents the percentage of youth in a county who are between the ages of 16 and 19, who are not enrolled in school, and who are unemployed or not in the labor force. Multiyear estimates from the American Community Survey (ACS) are “period” estimates derived from a data sample collected over a period of time, as opposed to “point-in-time” estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period. Multiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010-2014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011-2015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates. Please see “Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates“ on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https://www.census.gov/content/dam/Census/library/publications/2018/acs/acs_general_handbook_2018.pdf"
     },
     {
       "id":409,
@@ -2003,7 +2003,7 @@
       "realtime_end":"2019-05-17",
       "name":"Equifax Credit Quality",
       "press_release":false,
-      "notes":"Reprinted with permission. Copyright\u00a9 2016, Equifax. All rights reserved. Reproduction of median credit\r\nscore per county in any form is prohibited except with the prior written permission of Equifax."
+      "notes":"Reprinted with permission. Copyright© 2016, Equifax. All rights reserved. Reproduction of median credit score per county in any form is prohibited except with the prior written permission of Equifax."
     },
     {
       "id":410,
@@ -2011,8 +2011,8 @@
       "realtime_end":"2019-05-17",
       "name":"Offenses Known to Law Enforcement",
       "press_release":false,
-      "link":"https:\/\/ucr.fbi.gov\/ucr-publications",
-      "notes":"The combined violent and property crime statistics as reported by county law enforcement agencies.\r\n\r\nThe FBI collects these data through the Uniform Crime Reporting (UCR) Program."
+      "link":"https://ucr.fbi.gov/ucr-publications",
+      "notes":"The combined violent and property crime statistics as reported by county law enforcement agencies. The FBI collects these data through the Uniform Crime Reporting (UCR) Program."
     },
     {
       "id":412,
@@ -2020,7 +2020,7 @@
       "realtime_end":"2019-05-17",
       "name":"Single Parent Households with Children",
       "press_release":false,
-      "notes":"American Community Survey Table S1101.\r\n\r\nThese data represent single-parent households with their own children who are younger than 18-years of age as a percentage of total households with their children who are younger than 18-years of age.\r\n\r\nMultiyear estimates from the American Community Survey (ACS) are \"period\" estimates derived from a data sample collected over a period of time, as opposed to \"point-in-time\" estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period.\r\n\r\nMultiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010\u20132014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011\u20132015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates.\r\n\r\nPlease see \"Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates\" on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https:\/\/www.census.gov\/content\/dam\/Census\/library\/publications\/2018\/acs\/acs_general_handbook_2018.pdf"
+      "notes":"American Community Survey Table S1101. These data represent single-parent households with their own children who are younger than 18-years of age as a percentage of total households with their children who are younger than 18-years of age. Multiyear estimates from the American Community Survey (ACS) are “period” estimates derived from a data sample collected over a period of time, as opposed to “point-in-time” estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period. Multiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010-2014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011-2015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates. Please see “Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates” on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https://www.census.gov/content/dam/Census/library/publications/2018/acs/acs_general_handbook_2018.pdf"
     },
     {
       "id":413,
@@ -2028,7 +2028,7 @@
       "realtime_end":"2019-05-17",
       "name":"Burdened Households",
       "press_release":false,
-      "notes":"Burdened households are those households who pay more than 30 percent of their income on rent or mortgage expenses.\r\n\r\nAmerican Community Survey: Table DP04.\r\n\r\nMultiyear estimates from the American Community Survey (ACS) are \"period\" estimates derived from a data sample collected over a period of time, as opposed to \"point-in-time\" estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period.\r\n\r\nMultiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010\u20132014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011\u20132015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates.\r\n\r\nPlease see \"Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates\" on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https:\/\/www.census.gov\/content\/dam\/Census\/library\/publications\/2018\/acs\/acs_general_handbook_2018.pdf"
+      "notes":"Burdened households are those households who pay more than 30 percent of their income on rent or mortgage expenses. American Community Survey: Table DP04. Multiyear estimates from the American Community Survey (ACS) are “period” estimates derived from a data sample collected over a period of time, as opposed to “point-in-time” estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period. Multiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010-2014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011-2015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates. Please see “Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates” on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https://www.census.gov/content/dam/Census/library/publications/2018/acs/acs_general_handbook_2018.pdf"
     },
     {
       "id":414,
@@ -2036,7 +2036,7 @@
       "realtime_end":"2019-05-17",
       "name":"Income Inequality",
       "press_release":false,
-      "notes":"This data represents the ratio of mean income for the highest quintile (top 20 percent) of earners divided by the mean income of the lowest quintile (bottom 20 percent) of earners.\r\n\r\nMultiyear estimates from the American Community Survey (ACS) are \"period\" estimates derived from a data sample collected over a period of time, as opposed to \"point-in-time\" estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period.\r\n\r\nMultiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010\u20132014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011\u20132015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates.\r\n\r\nPlease see \"Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates\" on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https:\/\/www.census.gov\/content\/dam\/Census\/library\/publications\/2018\/acs\/acs_general_handbook_2018.pdf"
+      "notes":"This data represents the ratio of mean income for the highest quintile (top 20 percent) of earners divided by the mean income of the lowest quintile (bottom 20 percent) of earners. Multiyear estimates from the American Community Survey (ACS) are “period” estimates derived from a data sample collected over a period of time, as opposed to “point-in-time” estimates such as those from past decennial censuses. ACS 5-year estimate includes data collected over a 60-month period. The date of the data is the end of the 5-year period. For example, a value dated 2014 represents data from 2010 to 2014. However, they  do  not  describe  any  specific day, month, or year within that time period. Multiyear  estimates  require  some  considerations  that  single-year  estimates  do  not.  For  example,  multiyear  estimates released in consecutive years consist mostly of overlapping years and shared data. The 2010-2014 ACS 5-year estimates share sample data from 2011 through 2014 with the 2011-2015 ACS 5-year estimates. Because of this overlap, users should use extreme caution in making comparisons with consecutive years of multiyear estimates. Please see “Section 3: Understanding and Using ACS Single-Year and Multiyear Estimates” on publication page 13 (file page 19) of the 2018 ACS General Handbook for a more thorough clarification. https://www.census.gov/content/dam/Census/library/publications/2018/acs/acs_general_handbook_2018.pdf"
     },
     {
       "id":415,
