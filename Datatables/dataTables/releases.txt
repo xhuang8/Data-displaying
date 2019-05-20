@@ -1,5 +1,5 @@
 {
-  "releases":[
+[
     {
       "id":9,
       "realtime_start":"2019-05-19",
@@ -2226,5 +2226,6 @@
       "press_release":true,
       "link":"https://www.census.gov/foreign-trade/statistics/state/index.html"
     }
-  ]
+]
+
 }
