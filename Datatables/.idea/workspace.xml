@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4a5acec-523c-43f4-89b7-e7ec9aba44f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dataTables/objects.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataTables/releases.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataTables/releases.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTables/DataTables.html" beforeDir="false" afterPath="$PROJECT_DIR$/dataTables/DataTables.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTables/TableData.js" beforeDir="false" afterPath="$PROJECT_DIR$/dataTables/TableData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataTables/releases.json" beforeDir="false" afterPath="$PROJECT_DIR$/dataTables/releases.json" afterDir="false" />
-    </list>
+    <list default="true" id="a4a5acec-523c-43f4-89b7-e7ec9aba44f7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -24,7 +16,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dataTables/DataTables.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
+            <state relative-caret-position="291">
               <caret line="130" column="22" selection-start-line="130" selection-start-column="22" selection-end-line="130" selection-end-column="22" />
             </state>
           </provider>
@@ -83,8 +75,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="52" />
-    <option name="y" value="119" />
+    <option name="x" value="49" />
+    <option name="y" value="63" />
     <option name="width" value="1400" />
     <option name="height" value="729" />
   </component>
@@ -94,27 +86,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Datatables" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Datatables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Datatables" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Datatables" type="462c0819:PsiDirectoryNode" />
-              <item name="dataTables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Datatables" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Datatables" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -160,16 +132,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557962193841</updated>
-      <workItem from="1557962195051" duration="41607000" />
+      <workItem from="1557962195051" duration="41768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41607000" />
+    <option name="totallyTimeSpent" value="41768000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="119" width="1400" height="729" extended-state="0" />
-    <editor active="true" />
+    <frame x="49" y="63" width="1400" height="729" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
@@ -315,7 +286,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dataTables/DataTables.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
+        <state relative-caret-position="291">
           <caret line="130" column="22" selection-start-line="130" selection-start-column="22" selection-end-line="130" selection-end-column="22" />
         </state>
       </provider>
