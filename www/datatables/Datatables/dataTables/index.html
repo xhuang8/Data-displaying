@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DataTables</title>
+
+    <!--step 1: set up Javascript / css (CDN) -->
+    <!-- DataTables CSS -->
+    <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+
+    <!-- jQuery -->
+    <script type="text/javascript" charset="utf8" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+
+    <!-- DataTables -->
+    <script type="text/javascript" charset="utf8" src="http://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+
+</head>
+
+<body>
+    <br />
+    <!--step 2: HTML -->
+
+        <h1 align="center">DataSet</h1><br />
+    <table id="table_id" class="display" width="100%">
+        <thead>
+        <tr>
+            <th>Id</th>
+            <th>Link</th>
+            <th>Name</th>
+            <th>Notes</th>
+            <th>Press_release</th>
+            <th>Realtime_end</th>
+            <th>Realtime_start</th>
+        </tr>
+        </thead>
+
+        <tbody>
+        </tbody>
+
+        <tfoot>
+        <tr>
+            <th>Id</th>
+            <th>Link</th>
+            <th>Name</th>
+            <th>Notes</th>
+            <th>Press_release</th>
+            <th>Realtime_end</th>
+            <th>Realtime_start</th>
+        </tr>
+        </tfoot>
+    </table>
+
+
+    <!--step3: Initial DataTables -->
+    <!--<script>
+        $(document).ready( function () {
+            $('#table_id').DataTable (
+                {
+                    "processing": true,
+                    "serverSide": true,
+                    "ajax": {
+                        url: 'releases.json',
+                        type: 'POST',
+                        dataType: 'json',
+                        contentType: 'application/json; charset=utf-8',
+                        dataSrc: 'releases'
+                    },
+                    "columns": [
+                        {"releases": "id"},
+                        {"releases": "link"},
+                        {"releases": "name"},
+                        {"releases": "notes"},
+                        {"releases": "press_release"},
+                        {"releases": "realtime_end"},
+                        {"releases": "realtime_start"}
+                    ]
+                }   );
+        } );
+    </script>-->
+
+
+    <!--step3: Initial DataTables -->
+    <!--<script>
+        $(document).ready( function () {
+            $.ajax({
+                type: 'POST',
+                url: 'releases.json',
+                mimeType: 'json',
+
+                success: function (data) {
+                    $.each(data, function (i, data) {
+                        var body = "<tr>";
+                        body += "<td>" + data.id + "</td>";
+                        body += "<td>" + data.link + "</td>";
+                        body += "<td>" + data.name + "</td>";
+                        body += "<td>" + data.notes + "</td>";
+                        body += "<td>" + data.press_release + "</td>";
+                        body += "<td>" + data.realtime_end + "</td>";
+                        body += "<td>" + data.realtime_start + "</td>";
+                        body += "</tr>";
+
+                        $("#table_id tbody").appendTo(body);
+                    });
+                    $('#table_id').dataTable(
+                        {
+                            "processing": true,
+                            "serverSide": false
+                        }
+                    );
+                },
+                error: function () {
+                    alert('Fail!');
+                }
+            });
+        });
+    </script>-->
+
+    <!--step3: Initial DataTables -->
+    <script>
+        $(document).ready( function () {
+            $('#table_id').DataTable (
+                {
+                    "processing": true,
+                    "ajax": {
+                        url: 'releases.json',
+                        type: 'get',
+                        dataType: 'json',
+                        contentType: 'application/json; charset=utf-8',
+                        dataSrc: 'releases'
+                    },
+                    "columns": [
+                        {data: "id"},
+                        {data: "link"},
+                        {data: "name"},
+                        {data: "notes"},
+                        {data: "press_release"},
+                        {data: "realtime_end"},
+                        {data: "realtime_start"}
+                    ]
+                }   );
+        } );
+    </script>
+</body>
+</html>
+
+
