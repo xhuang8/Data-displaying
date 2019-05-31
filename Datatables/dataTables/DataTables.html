@@ -15,7 +15,6 @@
     <script type="text/javascript" charset="utf8" src="http://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
 
 
-
 </head>
 
 <body>
@@ -24,63 +23,65 @@
 
     <h1 align="center">DataSet</h1><br />
 
-    <table id="table_id" class="display cell-border" width="100%">
-        <thead>
-        <tr>
-            <th>Id</th>
-            <th>Link</th>
-            <th>Name</th>
-            <th>Notes</th>
-            <th>Press_release</th>
-            <th>Realtime_end</th>
-            <th>Realtime_start</th>
-        </tr>
-        </thead>
+    <div>
+        <table id="table_id" class="display cell-border dataTable" style="width: 100%">
+            <thead>
+            <tr>
+                <th>Id</th>
+                <th>Link</th>
+                <th>Name</th>
+                <th>Notes</th>
+                <th>Press_release</th>
+                <th>Realtime_end</th>
+                <th>Realtime_start</th>
+            </tr>
+            </thead>
 
-        <tbody>
-        </tbody>
 
-        <tfoot>
-        <tr>
-            <th>Id</th>
-            <th>Link</th>
-            <th>Name</th>
-            <th>Notes</th>
-            <th>Press_release</th>
-            <th>Realtime_end</th>
-            <th>Realtime_start</th>
-        </tr>
-        </tfoot>
-    </table>
+            <tbody style="font-size: 15px">
+            </tbody>
 
+            <tfoot>
+            <tr>
+                <th>Id</th>
+                <th>Link</th>
+                <th>Name</th>
+                <th>Notes</th>
+                <th>Press_release</th>
+                <th>Realtime_end</th>
+                <th>Realtime_start</th>
+            </tr>
+            </tfoot>
+        </table>
+    </div>
 
     <!--step3: Initial DataTables -->
-    <!--<script>
+    <script>
         $(document).ready( function () {
             $('#table_id').DataTable (
                 {
+                    "scrollX": true,
+                    "autoWidth": false,
                     "processing": true,
-                    "serverSide": true,
                     "ajax": {
                         url: 'releases.json',
-                        type: 'POST',
+                        type: 'get',
                         dataType: 'json',
                         contentType: 'application/json; charset=utf-8',
                         dataSrc: 'releases'
                     },
                     "columns": [
-                        {"releases": "id"},
-                        {"releases": "link"},
-                        {"releases": "name"},
-                        {"releases": "notes"},
-                        {"releases": "press_release"},
-                        {"releases": "realtime_end"},
-                        {"releases": "realtime_start"}
+                        {data: 'id', className: 'dt-body-left', sWidth: '20px'},
+                        {data: 'link', sDefaultContent: "", className: 'dt-body-left', sWidth: '100px'},
+                        {data: 'name', className: 'dt-body-left', sWidth: '200px'},
+                        {data: 'notes', sDefaultContent: "", className: 'dt-body-left', sWidth: '620px'},
+                        {data: 'press_release', className: 'dt-body-left', sWidth: '20px'},
+                        {data: 'realtime_end', className: 'dt-body-left', sWidth: '20px'},
+                        {data: 'realtime_start', className: 'dt-body-left', sWidth: '20px'}
                     ]
                 }   );
         } );
-    </script>-->
-
+    </script>
 
     <!--step3: Initial DataTables -->
     <!--<script>
@@ -117,37 +118,6 @@
             });
         });
     </script>-->
-
-    <!--step3: Initial DataTables -->
-    <script>
-        $(document).ready( function () {
-            $('#table_id').DataTable (
-                {
-                    "processing": true,
-                    "ajax": {
-                        url: 'releases.json',
-                        type: 'get',
-                        dataType: 'json',
-                        contentType: 'application/json; charset=utf-8',
-                        dataSrc: 'releases'
-                    },
-                    columnDefs: [
-                        {
-                            className: 'dt-body-right'
-                        }
-                    ],
-                    "columns": [
-                        {data: 'id', className: 'dt-body-center'},
-                        {data: 'link', sDefaultContent: "", className: 'dt-body-center'},
-                        {data: 'name', className: 'dt-body-center'},
-                        {data: 'notes', sDefaultContent: "", className: 'dt-body-center'},
-                        {data: 'press_release', className: 'dt-body-center'},
-                        {data: 'realtime_end', className: 'dt-body-center'},
-                        {data: 'realtime_start', className: 'dt-body-center'}
-                    ]
-                }   );
-        } );
-    </script>
 </body>
 </html>
 
