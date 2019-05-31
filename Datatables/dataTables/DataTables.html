@@ -14,14 +14,17 @@
     <!-- DataTables -->
     <script type="text/javascript" charset="utf8" src="http://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
 
+
+
 </head>
 
 <body>
     <br />
     <!--step 2: HTML -->
 
-        <h1 align="center">DataSet</h1><br />
-    <table id="table_id" class="display" width="100%">
+    <h1 align="center">DataSet</h1><br />
+
+    <table id="table_id" class="display cell-border" width="100%">
         <thead>
         <tr>
             <th>Id</th>
@@ -128,16 +131,19 @@
                         contentType: 'application/json; charset=utf-8',
                         dataSrc: 'releases'
                     },
+                    columnDefs: [
+                        {
+                            className: 'dt-body-right'
+                        }
+                    ],
                     "columns": [
-                        {data: 'id'},
-                        {data: 'link',
-                        sDefaultContent: ""},
-                        {data: 'name'},
-                        {data: 'notes',
-                         sDefaultContent: ""},
-                        {data: 'press_release'},
-                        {data: 'realtime_end'},
-                        {data: 'realtime_start'}
+                        {data: 'id', className: 'dt-body-center'},
+                        {data: 'link', sDefaultContent: "", className: 'dt-body-center'},
+                        {data: 'name', className: 'dt-body-center'},
+                        {data: 'notes', sDefaultContent: "", className: 'dt-body-center'},
+                        {data: 'press_release', className: 'dt-body-center'},
+                        {data: 'realtime_end', className: 'dt-body-center'},
+                        {data: 'realtime_start', className: 'dt-body-center'}
                     ]
                 }   );
         } );

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/dataTables/DataTables.html" line="139" mnemonic="5" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a4a5acec-523c-43f4-89b7-e7ec9aba44f7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dataTables/DataTables.html" beforeDir="false" afterPath="$PROJECT_DIR$/dataTables/DataTables.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dataTables/DataTables.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="129" column="22" lean-forward="true" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
+            <state relative-caret-position="315">
+              <caret line="145" column="74" selection-start-line="145" selection-start-column="74" selection-end-line="145" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -78,8 +80,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="65" />
+    <option name="x" value="67" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="729" />
   </component>
@@ -153,15 +155,15 @@
       <workItem from="1557962195051" duration="41958000" />
       <workItem from="1559014155077" duration="1092000" />
       <workItem from="1559079116600" duration="109000" />
-      <workItem from="1559252691328" duration="1835000" />
+      <workItem from="1559252691328" duration="6469000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44994000" />
+    <option name="totallyTimeSpent" value="49628000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="65" width="1400" height="729" extended-state="0" />
+    <frame x="67" y="23" width="1400" height="729" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
@@ -289,8 +291,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dataTables/DataTables.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="129" column="22" lean-forward="true" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
+        <state relative-caret-position="315">
+          <caret line="145" column="74" selection-start-line="145" selection-start-column="74" selection-end-line="145" selection-end-column="74" />
         </state>
       </provider>
     </entry>
